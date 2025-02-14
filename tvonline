@@ -3852,3 +3852,19 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1,TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY FHD
+http://voz.one:80/live/49900930/92623193/45641.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY HD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY HD
+http://voz.one:80/live/49900930/92623193/823.m3u8
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE FHD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE FHD
+http://voz.one:80/live/49900930/92623193/819.m3u8
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE HD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE HD
+http://voz.one:80/live/49900930/92623193/45642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://iili.io/dz0WUGV.png" group-title="Canais • Adulto (+18)",SEXTREME
+http://voz.one:80/live/49900930/92623193/820.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT FHD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT FHD
+http://voz.one:80/live/49900930/92623193/821.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT HD
+http://voz.one:80/live/49900930/92623193/818.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS
+http://voz.one:80/live/49900930/92623193/822.m3u8
