@@ -1,24 +1,25 @@
-
-<canal>
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>lista</layoutype>
+ 
 <canais>
-<name>[COLOR white][B]TVoff :[COLOR cyan][B] BBB 25[/B][/COLOR]</name>
-<thumbnail>https://s2-oglobo.glbimg.com/lHypHPRy7vYNaG8quiYgG9aU4LY=/0x0:960x502/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/G/c/vT8RelTPyouoHmkPCYrw/whatsapp-image-2024-12-12-at-15.12.55.jpeg</thumbnail>
-<fanart>https://imagem.natelinha.uol.com.br/original/bbb25-logo-1_7333.jpeg</fanart>
+<canal>
+<name>[COLOR white][B]Bem Vindo [COLOR orange][B]- [COLOR sylver][B] Ao ADDON!![/B][/COLOR]</name>
+<thumbnail>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2021/01/iptv.jpg</thumbnail>
+<fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2021/01/iptv.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://cineboxonline2.blogspot.com/2025/02/vip.html</externallink>
-<info>Lista de canais Atualizada toda Manha </info>
-<genre>[COLOR white][B] LOODING...[/B][/COLOR]</genre>
+<externallink>https://pastebin.com/raw/wbfgFe9E</externallink>
+<info>[COLOR white][B]Fique em casa!![/B][/COLOR]</info>
 </canal>
 </canais>
 
-<canal>
+ 
 <canais>
-<name>[COLOR white][B]TVoff :[COLOR cyan][B] Canais Globo [/B][/COLOR]</name>
-<thumbnail>https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png</thumbnail>
-<fanart>https://www.mktesportivo.com/wp-content/uploads/2022/05/logo-globo.jpg</fanart>
+<canal>
+<name>[COLOR green][B]â—[/B][/COLOR][COLOR white][B] Canais ao VIVO  [/B][/COLOR][COLOR yellow][B] â– [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/ZlGUVTx.jpg</thumbnail>
+<fanart>https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2021/01/iptv.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://cineboxonline2.blogspot.com/2025/02/vip.html</externallink>
-<info>Lista de canais Atualizada toda Manha </info>
-<genre>[COLOR white][B] LOODING...[/B][/COLOR]</genre>
+<externallink>https://pastebin.com/raw/qpjKw7CH</externallink>
+<info>[COLOR branco][B]Sua Tv Na Caxinha[/B][/COLOR]</info>
 </canal>
 </canais>
