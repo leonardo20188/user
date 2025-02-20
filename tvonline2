@@ -120,6 +120,10 @@ http://45.235.0.78/AMC-HD/index.m3u8
 http://45.235.0.78/AXN-HD/index.m3u8
 #EXTINF:-1,A&E
 http://45.235.0.78/A&E-HD/index.m3u8
+#EXTINF:-1,CINEMAX
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+#EXTINF:-1,CINE CANAL
+http://45.235.0.78/CINECANAL-HD/index.m3u8
 #EXTINF:-1,FX
 http://45.235.0.78/FX-HD/index.m3u8
 #EXTINF:-1,PARAMOUNT
@@ -166,6 +170,12 @@ http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 http://45.235.0.78/TOONCAST-HD/index.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
 http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
+#EXTINF:-1,VIVA
+http://45.235.0.78/VIVA-HD/index.m3u8
+#EXTINF:-1,HOT
+http://45.235.0.78/SEXHOT-HD/index.m3u8
+#EXTINF:-1,TREME
+http://45.235.0.78/SEXPRIVE-HD/index.m3u8
 
 #EXTINF:-1,NOSSO FUTEBOL 1
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
@@ -185,8 +195,6 @@ https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1,NOSSO FUTEBOL 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
-#EXTINF:-1,AWTV
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2" tvg-logo="" group-title="SolucaoX1",BBB 2
 http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/109.m3u8
