@@ -278,6 +278,10 @@ https://prot1cr.d5ssgk.su/o1/stream381/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS" tvg-logo="https://encurtador.com.br/AiwSu" group-title="LR FUTEBOL",FUTEBOL 28
 https://prot1cr.d5ssgk.su/o1/stream383/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS" tvg-logo="https://encurtador.com.br/AiwSu" group-title="LR FUTEBOL",FUTEBOL 29
+https://prot1cr.d5ssgk.su/o1/stream201/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS" tvg-logo="https://encurtador.com.br/AiwSu" group-title="LR FUTEBOL",FUTEBOL 30
+https://stream.gia.tv/giatv/giatv-mais18/mais18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS" tvg-logo="https://encurtador.com.br/AiwSu" group-title="LR FUTEBOL",FUTEBOL 29
 https://prot1cr.d5ssgk.su/o1/stream161/playlist.m3u8
 #EXTINF:-1,WEBTV-LR
 https://stream.gia.tv/giatv/giatv-lrtv/lrtv/playlist.m3u8
