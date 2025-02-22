@@ -1295,3 +1295,5 @@ https://new.m3u8.one/playboy/index.m3u8
 #EXTINF:-1 tvg-id="LR" tvg-name="LR" tvg-logo="" group-title="CANAIS | LR",hot
 https://new.m3u8.one/sexhot/index.m3u8
 
+#EXTINF:-1,mais18
+https://stream.gia.tv/giatv/giatv-mais18/mais18/playlist.m3u8
