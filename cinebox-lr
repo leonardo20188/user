@@ -1,0 +1,22 @@
+<item>
+<title>[COLOR lime][B] CANAIS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=IPTV LR&maxbitrate=1500&buffer=20191129153332[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>https://lrplay-1.blogspot.com/2025/02/lista2.html</page>
+<referer>https://origin.topcanais.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
