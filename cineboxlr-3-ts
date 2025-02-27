@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime][B] CANAIS [/B][/COLOR]</title>
+<title>[COLOR lime][B] CANAIS1 [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -8,7 +8,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=IPTV LR&maxbitrate=1500&buffer=20191129153332[makelist.param1]&amp;url=$doregex[encodedurl]</link>
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
 <page>https://lrplay-1.blogspot.com/2025/02/canais-ts.html</page>
 <referer></referer>
 <x-forward></x-forward>
