@@ -92,7 +92,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] CANAIS 24H** [/B][/COLOR]</title>
+<title>[COLOR red][B] CANAIS 24H*** [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
