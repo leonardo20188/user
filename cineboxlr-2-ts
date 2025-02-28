@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime][B] CANAIS1 [/B][/COLOR]</title>
+<title>[COLOR lime][B] CANAIS AO VIVO [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
