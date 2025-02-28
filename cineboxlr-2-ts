@@ -1,30 +1,22 @@
 <item>
-<title>[COLOR red]LR[/COLOR][COLOR yellow]IPTV[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR lightblue]LR[COLOR lightblue] Servidor: [/COLOR][COLOR lightgreen] [makelist2.param1][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- ]]></listrepeat>
-<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://pastebin.com/raw/TiAmfc1h</page>
-<agent></agent>
-</regex>
-
+<title>[COLOR lime][B] CANAIS1 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=1500&amp;proxy=None&amp;name=[COLOR lightblue]LR[/COLOR] [makelist.param1]</link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent></agent>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=IPTV LR&maxbitrate=1500&buffer=20191129153332[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>https://lrplay-1.blogspot.com/2025/02/canais-ts.html</page>
+<referer></referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
 </regex>
-<thumbnail></thumbnail>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
 </item>
