@@ -56,7 +56,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>https://lrplay-1.blogspot.com/2025/02/canais24h.html</page>
+<page>https://github.com/leonardo20188/user/raw/refs/heads/main/18</page>
 <referer></referer>
 <x-forward></x-forward>
 <agent>Kodi/18.0</agent>
