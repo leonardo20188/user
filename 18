@@ -1,136 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Playboy HD" tvg-name="PLAYBOY TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/playboytv_fhd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV FHD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/42928.m3u8
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="PLAYBOY TV FHD²" tvg-logo="http://contentsdeliver.link/logos/playboytv_fhd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV FHD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/22765.m3u8
-#EXTINF:-1 tvg-id="Playboy HD" tvg-name="PLAYBOY TV HD¹" tvg-logo="http://contentsdeliver.link/logos/playboytv_hd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18983.m3u8
-#EXTINF:-1 tvg-id="Playboy HD" tvg-name="PLAYBOY TV HD²" tvg-logo="http://contentsdeliver.link/logos/playboytv_hd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/22732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV SD¹" tvg-logo="http://contentsdeliver.link/logos/playboytv_sd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV SD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/22762.m3u8
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="PLAYBOY TV SD²" tvg-logo="http://contentsdeliver.link/logos/playboytv_sd.png" group-title="CANAIS | ADULTOS",PLAYBOY TV SD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/22763.m3u8
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT FHD¹" tvg-logo="http://contentsdeliver.link/logos/sexyhot_fhd.png" group-title="CANAIS | ADULTOS",SEXY HOT FHD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18989.m3u8
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT FHD*" tvg-logo="http://contentsdeliver.link/logos/sexyhot_fhd.png" group-title="CANAIS | ADULTOS",SEXY HOT FHD*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/103220.m3u8
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD¹" tvg-logo="http://contentsdeliver.link/logos/sexyhot_hd.png" group-title="CANAIS | ADULTOS",SEXY HOT HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64799.m3u8
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD²" tvg-logo="http://contentsdeliver.link/logos/sexyhot_hd.png" group-title="CANAIS | ADULTOS",SEXY HOT HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/103218.m3u8
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT SD²" tvg-logo="http://contentsdeliver.link/logos/sexyhot_sd.png" group-title="CANAIS | ADULTOS",SEXY HOT SD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD¹" tvg-logo="http://i.imgur.com/4oc1SmY.png" group-title="CANAIS | ADULTOS",SEX PRIVE FHD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/103222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD²" tvg-logo="http://i.imgur.com/4oc1SmY.png" group-title="CANAIS | ADULTOS",SEX PRIVE FHD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/102091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD¹" tvg-logo="http://i.imgur.com/4oc1SmY.png" group-title="CANAIS | ADULTOS",SEX PRIVE HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/103221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD²" tvg-logo="http://i.imgur.com/4oc1SmY.png" group-title="CANAIS | ADULTOS",SEX PRIVE HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/102090.m3u8
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME HD¹" tvg-logo="http://i.imgur.com/ISOKVWN.png" group-title="CANAIS | ADULTOS",SEXTREME HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD²" tvg-logo="http://i.imgur.com/ISOKVWN.png" group-title="CANAIS | ADULTOS",SEXTREME SD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64823.m3u8
-#EXTINF:-1 tvg-id="Venus" tvg-name="VENUS HD¹" tvg-logo="http://i.imgur.com/pGDeysN.png" group-title="CANAIS | ADULTOS",VENUS HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VENUS HD²" tvg-logo="http://i.imgur.com/pGDeysN.png" group-title="CANAIS | ADULTOS",VENUS HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV HD¹" tvg-logo="http://i.imgur.com/X59kL4G.png" group-title="CANAIS | ADULTOS",BRAZZERS TV HD¹
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - CLUBE PRIVE HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - CLUBE PRIVE HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - AMIGAS DA MINHA IRMA HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - AMIGAS DA MINHA IRMA HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - AGORA E HORA DAS PODEROSAS HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - AGORA E HORA DAS PODEROSAS HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - ESTRELAS EM BUSCA DO PRAZER HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - ESTRELAS EM BUSCA DO PRAZER HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - BIG MACK HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - BIG MACK HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - DEPOIS DOS 40 HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - DEPOIS DOS 40 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - ASSIM VC ME MATA HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS - ASSIM VC ME MATA HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - FAZENDO SACANAGEM HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="24H | ADULTOS",BRASILEIRINHAS - FAZENDO SACANAGEM HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS - BABANDO DE TESAO HD²" tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS - BABANDO DE TESAO HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CANDY" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: CANDY
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTOXCENTO" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: CENTOXCENTO
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/18978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE" tvg-logo="http://i.imgur.com/Eh55tkE.png" group-title="CANAIS | ADULTOS",XXX: PRIVATE
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/22738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: PENTHOUSE QUICKIES*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: PASSION*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TESTE DE FUDELIDADE HD²" tvg-logo="http://7online.xyz:8080/images/c80f617340a9bacd021c1bdbc9a702b0.png" group-title="CANAIS | ADULTOS",XXX: TESTE DE FUDELIDADE HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT*" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png/revision/latest?cb=20180312101837" group-title="CANAIS | ADULTOS",XXX: REDLIGHT*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSNOCH*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: RUSNOCH*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXT6SENSO*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: SEXT6SENSO*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED*" tvg-logo="http://i.imgur.com/ptbX3GK.png" group-title="CANAIS | ADULTOS",XXX: VIVID RED*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CANDY*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: CANDY*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCT*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: SCT*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK-O*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: PINK-O*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTOXCENTO*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: CENTOXCENTO*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: DORCEL TV*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: BLUE HUSTLER*
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS ANGELS" tvg-logo="https://img-cdn.curl.pk/chimg/asdfasd.gif" group-title="CANAIS | ADULTOS",XXX: TRANS ANGELS
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNOBOX GAY: Beefcake Hunter" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX: PORNOBOX GAY: Beefcake Hunter
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX PORNOBOX GAY: Breed It Raw" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX PORNOBOX GAY: Breed It Raw
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNOBOX GAY: Czech Hunter" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX: PORNOBOX GAY: Czech Hunter
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNOBOX GAY: Falcon Studios" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX: PORNOBOX GAY: Falcon Studios
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNOBOX GAY Next Door Studios" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX: PORNOBOX GAY Next Door Studios
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNOBOX GAY" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="CANAIS | ADULTOS",XXX: PORNOBOX GAY
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/309157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS EROTICA" tvg-logo="" group-title="CANAIS | ADULTOS",XXX: TRANS EROTICA
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/319708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN" tvg-logo="" group-title="CANAIS | ADULTOS",XXX: LESBIAN
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/319709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 1" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 1
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/70922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 1 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 1 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 2 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 2 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 3 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 3 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 4 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 4 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 5 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 5 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 6 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 6 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 7 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 7 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 8 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 8 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 9 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 9 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 10 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 10 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTO 11 HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="CANAIS | ADULTOS",XXX: ADULTO 11 HD²
-http://contentsdeliver.link:8080/live/mousasticoshvily/mrtv15xx/64826.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 1 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 1 [FHD]
 http://pfsv.io:80/Serrano1/123456/227960.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 10 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 10 [SD]
@@ -1284,10 +1153,6 @@ http://38.101.149.2:80/219975466/616688169/1353159
 #EXTINF:-1 tvg-id="" tvg-name="XXX THREESOME" tvg-logo="http://router965.online:8080/logos/adultos.png" group-title="CANAIS • ADULTOS (+18)",XXX THREESOME
 http://38.101.149.2:80/219975466/616688169/1353160
 
-#EXTINF:-1 tvg-id="LR" tvg-name="LR" tvg-logo="" group-title="CANAIS | LR",NOSSO FUTEBOL
-https://embedcanaistv.site/nossofutebol/video.m3u8
-#EXTINF:-1 tvg-id="LR" tvg-name="LR" tvg-logo="" group-title="CANAIS | LR",SPORTV
-https://new.m3u8.one/sportv/index.m3u8
 #EXTINF:-1 tvg-id="LR" tvg-name="LR" tvg-logo="" group-title="CANAIS | LR",treme
 https://new.m3u8.one/sextreme/index.m3u8
 #EXTINF:-1 tvg-id="LR" tvg-name="LR" tvg-logo="" group-title="CANAIS | LR",boy
@@ -1300,9 +1165,6 @@ https://stream.gia.tv/giatv/giatv-mais18/mais18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/jikYeXnfN8LN3b6/download/YU6m3E9.png" group-title="XXX | ADULTOS",XXX: Adulto 01 teste lr
 http://mdz.mysecuritycamera.com:80/live/Vinineriiptv/Sr171823/698505.m3u8|Origin=https://embedstream.org|Referer=https://embedstream.org/|buffer=23645356234
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 01" tvg-logo="" group-title="XXX | ADULTOS",XXX: Adulto 01 teste2 lr
-https://anonstream.zip/globomg-globominas/index.m3u8|origin=https://embedstream.org|referer=https://embedstream.org/|User-Agent=Mozilla/5.0|buffer=23645356234
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto 01" tvg-logo="" group-title="XXX | ADULTOS",XXX: Adulto 01 teste3 lr
 http://mdz.mysecuritycamera.com:80/live/Vinineriiptv/Sr171823/698505.m3u8|buffer=23645356234
@@ -1449,3 +1311,165 @@ http://mdz.mysecuritycamera.com:80/Vinineriiptv/Sr171823/1390189
 http://mdz.mysecuritycamera.com:80/Vinineriiptv/Sr171823/1390187
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Woman" tvg-logo="https://files.jpnetwork.com.br/index.php/s/jikYeXnfN8LN3b6/download/YU6m3E9.png" group-title="XXX | ADULTOS",XXX:Woman
 http://mdz.mysecuritycamera.com:80/Vinineriiptv/Sr171823/1390186
+
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY FHD
+http://ibys.xyz:80/live/49900930/92623193/45641.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY HD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY HD
+http://ibys.xyz:80/live/49900930/92623193/823.m3u8
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE FHD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE FHD
+http://ibys.xyz:80/live/49900930/92623193/819.m3u8
+#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE HD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE HD
+http://ibys.xyz:80/live/49900930/92623193/45642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://iili.io/dz0WUGV.png" group-title="Canais • Adulto (+18)",SEXTREME
+http://ibys.xyz:80/live/49900930/92623193/820.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT FHD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT FHD
+http://ibys.xyz:80/live/49900930/92623193/821.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT HD
+http://ibys.xyz:80/live/49900930/92623193/818.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS
+http://ibys.xyz:80/live/49900930/92623193/822.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS HD" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS HD
+http://ibys.xyz:80/live/49900930/92623193/816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 16" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 16
+http://ibys.xyz:80/live/49900930/92623193/260407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 15" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 15
+http://ibys.xyz:80/live/49900930/92623193/260408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 14" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 14
+http://ibys.xyz:80/live/49900930/92623193/260409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 13" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 13
+http://ibys.xyz:80/live/49900930/92623193/260410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 12" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 12
+http://ibys.xyz:80/live/49900930/92623193/260411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 11" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 11
+http://ibys.xyz:80/live/49900930/92623193/260412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 10" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 10
+http://ibys.xyz:80/live/49900930/92623193/260413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 09" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 09
+http://ibys.xyz:80/live/49900930/92623193/260414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 08" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 08
+http://ibys.xyz:80/live/49900930/92623193/260415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 07" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 07
+http://ibys.xyz:80/live/49900930/92623193/260416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 06" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 06
+http://ibys.xyz:80/live/49900930/92623193/260417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 05" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 05
+http://ibys.xyz:80/live/49900930/92623193/260418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 04" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 04
+http://ibys.xyz:80/live/49900930/92623193/260419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 03" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 03
+http://ibys.xyz:80/live/49900930/92623193/260420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 02" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 02
+http://ibys.xyz:80/live/49900930/92623193/260421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 01" tvg-logo="https://iili.io/dz0Xpxj.png" group-title="Canais • Adulto (+18)",XXX ADULTO 01
+http://ibys.xyz:80/live/49900930/92623193/260422.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 01" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 01
+http://bludx.top:80/112233/445566/3289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 02" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 02
+http://bludx.top:80/112233/445566/3290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 03" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 03
+http://bludx.top:80/112233/445566/3291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 04" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 04
+http://bludx.top:80/112233/445566/3292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 05" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 05
+http://bludx.top:80/112233/445566/3293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 06" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 06
+http://bludx.top:80/112233/445566/3294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 07" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 07
+http://bludx.top:80/112233/445566/3295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 08" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 08
+http://bludx.top:80/112233/445566/3296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 09" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 09
+http://bludx.top:80/112233/445566/3297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 10" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 10
+http://bludx.top:80/112233/445566/3298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 11" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 11
+http://bludx.top:80/112233/445566/3299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 12" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 12
+http://bludx.top:80/112233/445566/3300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 13" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 13
+http://bludx.top:80/112233/445566/3301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 14" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 14
+http://bludx.top:80/112233/445566/3302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 15" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 15
+http://bludx.top:80/112233/445566/3303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 16" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 16
+http://bludx.top:80/112233/445566/3304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 17" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 17
+http://bludx.top:80/112233/445566/3305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 18" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 18
+http://bludx.top:80/112233/445566/3306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 19" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 19
+http://bludx.top:80/112233/445566/3307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 20" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO 20
+http://bludx.top:80/112233/445566/3308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 01" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO GAY 01
+http://bludx.top:80/112233/445566/3309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 02" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO GAY 02
+http://bludx.top:80/112233/445566/3310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 03" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO GAY 03
+http://bludx.top:80/112233/445566/3311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 04" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO GAY 04
+http://bludx.top:80/112233/445566/3312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 05" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO GAY 05
+http://bludx.top:80/112233/445566/3313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 01" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO TRANS 01
+http://bludx.top:80/112233/445566/3314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 02" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO TRANS 02
+http://bludx.top:80/112233/445566/3315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 03" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO TRANS 03
+http://bludx.top:80/112233/445566/3316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 04" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO TRANS 04
+http://bludx.top:80/112233/445566/3317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 05" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",24H-XXX ADULTO TRANS 05
+http://bludx.top:80/112233/445566/3318.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XxX Adulto HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",XxX Adulto HD
+http://bludx.top:80/112233/445566/181657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive FHD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sex Prive FHD
+http://bludx.top:80/112233/445566/2039249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sex Prive HD
+http://bludx.top:80/112233/445566/2039248.m3u8
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme FHD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sextreme FHD
+http://bludx.top:80/112233/445566/577.m3u8
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sextreme HD
+http://bludx.top:80/112233/445566/578.m3u8
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme SD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sextreme SD
+http://bludx.top:80/112233/445566/579.m3u8
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy hot +HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy hot +HD
+http://bludx.top:80/112233/445566/2281.m3u8
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot FHD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot FHD
+http://bludx.top:80/112233/445566/580.m3u8
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot HD
+http://bludx.top:80/112233/445566/581.m3u8
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot SD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Sexy Hot SD
+http://bludx.top:80/112233/445566/582.m3u8
+
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy +HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy +HD
+http://bludx.top:80/112233/445566/2262.m3u8
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy FHD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy FHD
+http://bludx.top:80/112233/445566/461.m3u8
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy FHD [H265]" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy FHD [H265]
+http://bludx.top:80/112233/445566/460.m3u8
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy HD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy HD
+http://bludx.top:80/112233/445566/462.m3u8
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy SD" tvg-logo="http://im.elisx8.ca:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Canais | ⛔ XXX Adultos",Playboy SD
+http://bludx.top:80/112233/445566/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Amadoras" tvg-logo="" group-title="Canais | ⛔ XXX Adultos",XXX: Amadorashttp://bludx.top:80/112233/445566/2082665.m3u8
