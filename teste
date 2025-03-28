@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD
+http://snake.ilovecollege.info:80/live/oreia3322/3322oreia/141408.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD
+http://snake.ilovecollege.info:80/live/oreia3322/3322oreia/141409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 01
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/688349
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 02" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 02
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/688350
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 03" tvg-logo="https://files.jpnetwork.com.br/index.php/s/azpqrKsMY38x9cp/download/PRIME%20VIDEO.png" group-title="ESPORTES | ESPECIAIS",AMAZON PRIME 03
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/688351
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/387050
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141410
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PfXcRLL67qH8fTw/download/AMC.png" group-title="CANAIS | FILMES & SÉRIES",AMC SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141411
+#EXTINF:-1 tvg-id="ANIPBHD" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141663
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141635
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FPPJ3NgbkifPmdf/download/1280px-Animal-Planet-logo.png" group-title="CANAIS | DOCUMENTÁRIO",ANIMAL PLANET SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141636
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV - WebTV" tvg-logo="http://snake.ilovecollege.info:80/images/676d8aa991587b45400f23d58a26ef65.png" group-title="CANAIS | ABERTOS VÁRIOS",Anime TV - WebTV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609857
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-logo="" group-title="RÁDIOS",Antena 1
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827847
+#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="ARTE 1 H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 H265
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/387051
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141412
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/dcxyroFPN8NAzdr/download/arte1.png" group-title="CANAIS | FILMES & SÉRIES",ARTE 1 SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141413
+#EXTINF:-1 tvg-id="" tvg-name="Atlantida FM" tvg-logo="" group-title="RÁDIOS",Atlantida FM
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827849
+#EXTINF:-1 tvg-id="" tvg-name="AWTV" tvg-logo="http://snake.ilovecollege.info:80/images/4b65a4423c20e1f62434a7504f6fdef0.png" group-title="CANAIS | ABERTOS VÁRIOS",AWTV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609875
+#EXTINF:-1 tvg-id="AXN FHD H.265" tvg-name="AXN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/387048
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141414
+#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/BWDfqKPH2SQZBoj/download/AXN.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141415
+#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band Bahia HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1382074
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND CAMPINAS SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141384
+#EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141395
+#EXTINF:-1 tvg-id="" tvg-name="BAND H265" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND H265
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/268152
+#EXTINF:-1 tvg-id="" tvg-name="Band Minas" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band Minas
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609845
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND MINAS HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/688659
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404644
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD*
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/685180
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404645
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND RJ FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/410361
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band RJ HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141396
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND RJ SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141397
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",Band RS HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1590850
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND SP FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/292157
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/251998
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Ej4GFbJxfyDR8MR/download/band.png" group-title="CANAIS | BAND",BAND SP SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141387
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404915
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404914
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/i9Ag5NzkEnDwLng/download/bandsportes.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141521
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 ACADEMIA HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 ACADEMIA HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320055
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 ACOMPANHE A CASA 2 HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 ACOMPANHE A CASA 2 HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320054
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 ACOMPANHE A CASA HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 ACOMPANHE A CASA HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320053
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 COZINHA HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 COZINHA HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320052
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 MOSAICO HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 MOSAICO HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320050
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 PISCINA HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 PISCINA HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320047
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 QUARTO ANOS 50 HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 QUARTO ANOS 50 HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320044
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 QUARTO FANTÁSTICO HD" tvg-logo="" group-title="BIG-BROTHER 2025",BBB25 QUARTO FANTÁSTICO HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320058
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 QUARTO NORDESTE HD" tvg-logo="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/09/03153307/capa-1861.jpg" group-title="BIG-BROTHER 2025",BBB25 QUARTO NORDESTE HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320057
+#EXTINF:-1 tvg-id="" tvg-name="BBB25 SALA HD" tvg-logo="" group-title="BIG-BROTHER 2025",BBB25 SALA HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/2320059
+#EXTINF:-1 tvg-id="" tvg-name="BEM TV" tvg-logo="https://imgur.com/S9icaS4.png" group-title="CANAIS | ABERTOS VÁRIOS",BEM TV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609946
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7PHJcYYDKL8ffwZ/download/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141563
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7PHJcYYDKL8ffwZ/download/bis.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141564
+#EXTINF:-1 tvg-id="" tvg-name="BLITS TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="CANAIS | ABERTOS VÁRIOS",BLITS TV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609963
+#EXTINF:-1 tvg-id="" tvg-name="Canal 29 - WebTV" tvg-logo="http://snake.ilovecollege.info:80/images/19f9f739e81dd98cd76852eda92c1e3c.jpg" group-title="CANAIS | ABERTOS VÁRIOS",Canal 29 - WebTV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609904
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/g7FkHa2PAXAYfgA/download/TV-Brasil-logo.png" group-title="CANAIS | ABERTOS",CANAL BRASIL SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141388
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7JJ8C6sbgX85AzD/download/Logo-Canal-do-Boi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1607915
+#EXTINF:-1 tvg-id="" tvg-name="Canal Educação" tvg-logo="http://snake.ilovecollege.info:80/images/263e3d44c14618e05cd906342c075ca0.jpeg" group-title="CANAIS | ABERTOS VÁRIOS",Canal Educação
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609863
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Cf3exgBdyBi22NE/download/goat.png" group-title="ESPORTES | ESPECIAIS",Canal GOAT 1
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1404723
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Cf3exgBdyBi22NE/download/goat.png" group-title="ESPORTES | ESPECIAIS",Canal GOAT 2
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1404724
+#EXTINF:-1 tvg-id="" tvg-name="Canal Gov" tvg-logo="http://snake.ilovecollege.info:80/images/91db0d12a5ca64ec40356cdb3d36bd68.png" group-title="CANAIS | ABERTOS VÁRIOS",Canal Gov
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609862
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QXAizWnrBnaFQdQ/download/canalrural.png" group-title="CANAIS | ABERTOS",Canal Rural HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1378919
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QXAizWnrBnaFQdQ/download/canalrural.png" group-title="CANAIS | ABERTOS",Canal Rural SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1378920
+#EXTINF:-1 tvg-id="Cancao Nova SD [Alter]" tvg-name="CANÇÃO NOVA HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FsXdSwxXqpS7Efy/download/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD¹
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/221668
+#EXTINF:-1 tvg-id="Cancao Nova SD" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/FsXdSwxXqpS7Efy/download/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141400
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK  FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK  FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141627
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141603
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/GnN3jtHW2Jikd3g/download/cartoonnetwork.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141604
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5XgoSfqLeC9mSFX/download/cartoonito.png" group-title="CANAIS | INFANTIL",CARTOONITO HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141601
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5XgoSfqLeC9mSFX/download/cartoonito.png" group-title="CANAIS | INFANTIL",CARTOONITO SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141602
+#EXTINF:-1 tvg-id="" tvg-name="Caze 1" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PYtE6Mi4Rma85Sr/download/cazetv.png" group-title="ESPORTES | ESPECIAIS",Caze 1
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827625
+#EXTINF:-1 tvg-id="" tvg-name="Caze 2" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PYtE6Mi4Rma85Sr/download/cazetv.png" group-title="ESPORTES | ESPECIAIS",Caze 2
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827626
+#EXTINF:-1 tvg-id="" tvg-name="Caze 3" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PYtE6Mi4Rma85Sr/download/cazetv.png" group-title="ESPORTES | ESPECIAIS",Caze 3
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827627
+#EXTINF:-1 tvg-id="" tvg-name="Caze 4" tvg-logo="https://files.jpnetwork.com.br/index.php/s/PYtE6Mi4Rma85Sr/download/cazetv.png" group-title="ESPORTES | ESPECIAIS",Caze 4
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1827628
+#EXTINF:-1 tvg-id="" tvg-name="Central TV" tvg-logo="http://snake.ilovecollege.info:80/images/bd33919f52652619059d0fc44c231e1b.png" group-title="CANAIS | ABERTOS VÁRIOS",Central TV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609890
+#EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="CINEMAX FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/387053
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141416
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX SD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/141417
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS | ABERTOS VÁRIOS",CLASSIQUE TV
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/1609959
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404649
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD*
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/685178
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404650
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD*" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD*
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/686956
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/404648
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/4GDCMzWa5ZLcLz9/download/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://snake.ilovecollege.info:80/oreia3322/3322oreia/285996
