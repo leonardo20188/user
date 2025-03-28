@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E HDm3u8
 http://snake.ilovecollege.info:80/live/oreia3322/3322oreia/141408.m3u8
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&E SDm3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/kQtZmsG3c2qwPS3/download/AE.png" group-title="CANAIS | FILMES & SÉRIES",A&ESDm3u8
 http://snake.ilovecollege.info:80/live/oreia3322/3322oreia/141409.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/7oHFm8T6ZpeZPXx/download/CINEMAX.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD
