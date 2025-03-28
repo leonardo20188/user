@@ -9,7 +9,7 @@
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>https://gelsonkodi.blogspot.com/2020/02/tv02.html</page>
+<page>https://lrplay-1.blogspot.com/2025/03/lista3-tvfechada.html</page>
 <referer>https://origin.topcanais.com/</referer>
 <x-forward></x-forward>
 <agent>Kodi/18.0</agent>
