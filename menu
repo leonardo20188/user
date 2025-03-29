@@ -1,17 +1,7 @@
 			<?xml version="1.0" encoding="utf-8"?>
 <layoutype>lista</layoutype>
  
-<canais>
-<canal>
-<name>[COLOR white][B]Bem Vindo [COLOR orange][B]- [COLOR yellow][B] Ao ADDON!![/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/wbfgFe9E</externallink>
-<info>[COLOR white][B]OFFILINEtv??!![/B][/COLOR]</info>
-</canal>
-</canais>
- 
+
  
 <canais>
 <canal>
@@ -24,25 +14,3 @@
 </canal>
 </canais>
  
-<canais>
-<canal>
-<name>[COLOR white][B]Canais ao VIVO .:[COLOR orange][B] [ESPORTE] [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://lrplay-1.blogspot.com/2025/03/lista2-tvfechada.html</externallink>
-<info>[COLOR white][B]LR??!![/B][/COLOR]</info>
-</canal>
-</canais>
- 
- 
-<canal>
-<name>[COLOR white][B]Canais ao VIVO .:[COLOR orange][B] [24hs] [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://lrplay-1.blogspot.com/2025/03/lista3-tvfechada.html</externallink>
-<info>[COLOR branco][B]LR??!![/B][/COLOR]</info>
-</canal>
-</canais>
-
