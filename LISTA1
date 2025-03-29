@@ -1,22 +1,4 @@
-<item>
-<title>[COLOR lime][B]HD[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>https://lrplay-1.blogspot.com/2025/03/lista3-tvfechada.html</page>
-<referer>https://origin.topcanais.com/</referer>
-<x-forward></x-forward>
-<agent>Kodi/18.0</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
-</regex>
-</item>
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="F545466",TESTE4545554
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/28407526/34363548/449
