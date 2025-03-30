@@ -1,39 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/45641.m3u8
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY HD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/823.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE FHD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/819.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE HD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/45642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://iili.io/dz0WUGV.png" group-title="Canais • Adulto (+18)",SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/820.m3u8
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT FHD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/821.m3u8
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/818.m3u8
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/822.m3u8
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS HD" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/live/28407526/34363548/816.m3u8
 
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY FHHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/45641
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY HD" tvg-logo="https://iili.io/dz0EoiP.png" group-title="Canais • Adulto (+18)",PLAYBOY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/823
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE FHD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/819
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="SEX PRIVE HD" tvg-logo="https://iili.io/dz0Vqbf.png" group-title="Canais • Adulto (+18)",SEX PRIVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/45642
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://iili.io/dz0WUGV.png" group-title="Canais • Adulto (+18)",SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/820
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT FHD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/821
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://iili.io/dz0Ezf1.png" group-title="Canais • Adulto (+18)",SEXY HOT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/818
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/822
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS HD" tvg-logo="https://iili.io/dz0ETUg.png" group-title="Canais • Adulto (+18)",VENUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=LRIPTV&maxbitrate=0&buffer=0&url=http://ibys.xyz:80/49900930/92623193/816
+#EXTINF:-1 tvg-id="" tvg-name="24H Cine Adulto" tvg-logo="http://www.imgscc.top/logos/conteudoadulto250.png" group-title="CANAIS | XXX ADULTOS",24H Cine Adulto
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/162826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy FHD" tvg-logo="http://www.imgscc.top/logos/Logotipo_da_Playboy_TV.png" group-title="CANAIS | XXX ADULTOS",PlayBoy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy HD" tvg-logo="http://www.imgscc.top/logos/Logotipo_da_Playboy_TV.png" group-title="CANAIS | XXX ADULTOS",PlayBoy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playboy SD" tvg-logo="http://www.imgscc.top/logos/Logotipo_da_Playboy_TV.png" group-title="CANAIS | XXX ADULTOS",Playboy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/2152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive" tvg-logo="http://www.imgscc.top/logos/SEXPRIVE.jpg" group-title="CANAIS | XXX ADULTOS",Sex Prive
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/2153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sex Prive HD" tvg-logo="http://www.imgscc.top/logos/SEXPRIVE.jpg" group-title="CANAIS | XXX ADULTOS",Sex Prive HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/2155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme HD" tvg-logo="http://www.imgscc.top/logos/Sextreme.png" group-title="CANAIS | XXX ADULTOS",Sextreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme SD" tvg-logo="http://www.imgscc.top/logos/Sextreme.png" group-title="CANAIS | XXX ADULTOS",Sextreme SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot  HD" tvg-logo="http://www.imgscc.top/logos/Sexy_Hot_logo.png" group-title="CANAIS | XXX ADULTOS",Sexy Hot  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot FHD" tvg-logo="http://www.imgscc.top/logos/Sexy_Hot_logo.png" group-title="CANAIS | XXX ADULTOS",Sexy Hot FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot SD" tvg-logo="http://www.imgscc.top/logos/Sexy_Hot_logo.png" group-title="CANAIS | XXX ADULTOS",Sexy Hot SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]LR-IPTV:[/B][/COLOR][COLOR pink][B]88-9.98376699[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cndstudio.top:80/224859158/866945792/2154.m3u8
+
