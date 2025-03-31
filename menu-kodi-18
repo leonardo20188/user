@@ -1,22 +1,37 @@
-<layouttype>thumbnail</layouttype>
-
-<channels>
-<channel>
-<name>[B][COLOR lime]?[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
-<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-18-lista1.html</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]?[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
-<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
+			<?xml version="1.0" encoding="utf-8"?>
+<layoutype>lista</layoutype>
+ 
 
 
+<canais>
+<canal>
+<name>[COLOR white][B]Canais Extras :[COLOR orange][B] [TV] [/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista1.html</externallink>
+<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
+</canal>
+</canais>
 
-</channels>
+<canais>
+<canal>
+<name>[COLOR white][B]Canais Extras :[COLOR blue][B] [ESPORTES] [/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista2.html</externallink>
+<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
+</canal>
+</canais>
+
+<canais>
+<canal>
+<name>[COLOR white][B]Canais Extras :[COLOR green][B] [+ESPORTES] [/B][/COLOR]</name>
+<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista3.html</externallink>
+<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
+</canal>
+</canais>
