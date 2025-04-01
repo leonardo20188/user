@@ -1,17 +1,16 @@
-</canais>
 <item>
-<title>[COLOR lime][B]TV HD[/B][/COLOR]</title>
+<title>[COLOR lime][B]HD PLAY[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=LR&amp;maxbitrate=1500&amp;bufferWindow=2036473&amp;buffer=20191129153332&amp;loop=true&amp;resolveurl=true&amp;loopwhile=true&amp;&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
 <thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
 <page>https://lrplay-1.blogspot.com/2025/03/kodi-18-lista1_31.html</page>
-<referer>https://origin.topcanais.com/</referer>
+<referer></referer>
 <x-forward></x-forward>
 <agent>Kodi/18.0</agent>
 </regex>
@@ -21,5 +20,3 @@
 <page></page>
 </regex>
 </item>
-
-</canais>
