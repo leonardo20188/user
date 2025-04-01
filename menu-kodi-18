@@ -1,37 +1,25 @@
-			<?xml version="1.0" encoding="utf-8"?>
-<layoutype>lista</layoutype>
- 
-
-
-<canais>
-<canal>
-<name>[COLOR white][B]Canais Extras :[COLOR orange][B] [TV] [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista1.html</externallink>
-<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
-</canal>
 </canais>
+<item>
+<title>[COLOR lime][B]TV HD[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=LR&amp;maxbitrate=1500&amp;bufferWindow=2036473&amp;buffer=20191129153332&amp;loop=true&amp;resolveurl=true&amp;loopwhile=true&amp;&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>https://lrplay-1.blogspot.com/2025/03/kodi-18-lista1_31.html</page>
+<referer>https://origin.topcanais.com/</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
 
-<canais>
-<canal>
-<name>[COLOR white][B]Canais Extras :[COLOR blue][B] [ESPORTES] [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista2.html</externallink>
-<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
-</canal>
-</canais>
-
-<canais>
-<canal>
-<name>[COLOR white][B]Canais Extras :[COLOR green][B] [+ESPORTES] [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Off-Wallpaper-14.jpg</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://lrplay-1.blogspot.com/2025/03/kodi-20-lista3.html</externallink>
-<info>[COLOR branco][B]LR?![/B][/COLOR]</info>
-</canal>
 </canais>
