@@ -1,0 +1,22 @@
+import xbmcaddon
+try:
+    from resources.lib.DI import DI
+    from resources.lib.plugin import run_hook, register_routes
+except ImportError:
+    from .resources.lib.DI import DI
+    from .resources.lib.plugin import run_hook, register_routes
+
+try:
+    from resources.lib.util.common import *
+except ImportError:
+    from .resources.lib.util.common import *
+    
+root_xml_url = ownAddon.getSetting('http://racingondemand.xyz/noneofyourebusiness/microracing.json') or "http://racingondemand.xyz/noneofyourebusiness/microracing.json"
+
+#root_xml_url =  "http://racingondemand.xyz/noneofyourebusiness/microracing.json"
+
+plugin = DI.plugin
+short_checker = ([
+    'Adf.ly', 
+    'Bit.ly', 
+    'Chilp.it
