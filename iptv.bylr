@@ -1,64 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje",Jogos de Hoje
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/194567.m3u8
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal FHD " tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal FHD 
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/91572.m3u8
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal HD" tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/71074.m3u8
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/jxKTuAd.png" group-title="Canais | Abertos",AgroMais
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/90975.m3u8
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agrobrasil TV" tvg-logo="https://i.imgur.com/aCtqdjq.png" group-title="Canais | Abertos",Agrobrasil TV
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/90973.m3u8
-#EXTINF:-1 tvg-id="agro.plus.br" tvg-name="Agroplus HD" tvg-logo="https://i.imgur.com/aO1H6KD.png" group-title="Canais | Abertos",Agroplus HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/952080.m3u8
-#EXTINF:-1 tvg-id="semepg" tvg-name="Brasil TV Rural" tvg-logo="https://i.imgur.com/08iRqQ7.png" group-title="Canais | Abertos",Brasil TV Rural
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/121548.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/37122.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/41517.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Abertos",Canal Brasil FHD H265
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/986826.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/63636.m3u8
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/wcEDT6H.png" group-title="Canais | Abertos",Canal Rural
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/63217.m3u8
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/50645.m3u8
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/91567.m3u8
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/68528.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/40073.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura FHD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/42903.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/61961.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/40074.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/41481.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/68530.m3u8
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="Gazeta FHD" tvg-logo="https://i.imgur.com/cFLDS3G.png" group-title="Canais | Abertos",Gazeta FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/61960.m3u8
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="Gazeta HD" tvg-logo="https://i.imgur.com/cFLDS3G.png" group-title="Canais | Abertos",Gazeta HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/60201.m3u8
-#EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.imgur.com/JducaDV.png" group-title="Canais | Abertos",ISTV HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/190872.m3u8
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="Ideal TV" tvg-logo="https://i.imgur.com/Sen1B41.png" group-title="Canais | Abertos",Ideal TV
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/63404.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV Brasilia HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV Brasilia HD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/1001882.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV!
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/37012.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! FHD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! FHD
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/41518.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Abertos",RedeTV! FHD H265
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/91501.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! Guará" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Guará
-http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/952075.m3u8
+
+
+
+#EXTINF:-1,teste
+https://ww5.embedtv.lat/premiere
+
+#EXTINF:-1,teste2
+https://temporariofutemais.com/canalapps.php?id=14199
+
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! HD
 http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/36946.m3u8
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! Imperial" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Imperial
