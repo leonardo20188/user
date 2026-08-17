@@ -1,12 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1,teste7
+https://w2.sportsonlinee.click/channels/hd/hd5.php
 
+#EXTINF:-1,teste4
+https://esportesembed.net/austin-x-dallas-1
+
+#EXTINF:-1,teste3
+https://nossoplayeronlinehd.ink/tv/primevideo
 
 #EXTINF:-1,teste
 https://ww5.embedtv.lat/premiere
 
 #EXTINF:-1,teste2
 https://temporariofutemais.com/canalapps.php?id=14199
+
+
+
+
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! HD
 http://play.1list.vip/live/Geovanabessa/zp7okggv9ij/36946.m3u8
