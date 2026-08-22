@@ -1,72 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,LIGA MX TIGRES
+#EXTINF:-1,Canal Mexico
 https://futbollibre.ch/hd.php?stream=azteca7
 
 #EXTINF:-1,Chaves 
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1,Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w995180891.m3u8
-#EXTINF:-1,teste2
-https://nossoplayeronlinehd.ink/tv/primevideo
 #EXTINF:-1,teste99
 https://rdcanais.net/megapix
-#EXTINF:-1 tvg-id="" tvg-name="AXÉ" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",AXÉ
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOSSA NOVA" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",BOSSA NOVA
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BREGA" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",BREGA
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELETRÔNICA" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",ELETRÔNICA
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FESTA" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",FESTA
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FORRÓ" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",FORRÓ
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",FUNK
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",GOSPEL
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIP HOP" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",HIP HOP
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZZ" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",JAZZ
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",KIDS
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOUNGE" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",LOUNGE
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="METAL" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",METAL
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",MPB
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MÚSICA CLÁSSICA" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",MÚSICA CLÁSSICA
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEW ROCK" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",NEW ROCK
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAGODE" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",PAGODE
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POP HITS" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",POP HITS
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POP ROCK" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",POP ROCK
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAP NACIONAL" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",RAP NACIONAL
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REGGAE" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",REGGAE
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROCK BRASIL" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",ROCK BRASIL
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROCK CLÁSSICO" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",ROCK CLÁSSICO
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROMÂNTICAS" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",ROMÂNTICAS
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAMBA DE RAIZ" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",SAMBA DE RAIZ
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",SERTANEJO
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO UNIVERSITÁRIO" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",SERTANEJO UNIVERSITÁRIO
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRILHAS SONORAS" tvg-logo="https://i.imgur.com/O6DFm3E.png" group-title="SOUND!",TRILHAS SONORAS
-http://oasdps.top:8880/radio_streams/Zedolan/Alan3253/526.m3u8
+#EXTINF:-1,JOGO 1
+https://temporariofutemais.com/canalapps.php?id=14226#
+#EXTINF:-1,JOGO 2
+https://redecanaistv.af/player3/ch.php?canal=disneyplus1
+#EXTINF:-1,JOGO 3
+https://w2.sportsonlinee.click/channels/pt/eleven1.php
+
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="(+18) 24H BISSEXUAIS" tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS",(+18) 24H BISSEXUAIS
 http://oasdps.top:8880/live/Zedolan/Alan3253/254574.m3u8
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="(+18) PLAYBOY TV FHD¹" tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="ADULTOS",(+18) PLAYBOY TV FHD¹
