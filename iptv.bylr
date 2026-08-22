@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,LIGA MX TIGRES
+https://futbollibre.ch/hd.php?stream=azteca7
+
 #EXTINF:-1,Chaves 
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1,Aracati
