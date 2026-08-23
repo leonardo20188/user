@@ -11,8 +11,5 @@ http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1,MEGAPIX WEB
 https://rdcanais.net/megapix
 
-#EXTINF:-1,JOGO 1 M3U8
-https://4.tvlibre.pe:443/espn/mono.m3u8?token=8c3300d7f57b2d129c905500a0989830cd4b2121-1b-1787436753-1787418753
-
 #EXTINF:-1,JOGO 2
 https://esportesembed.net/udinese-x-como-1
