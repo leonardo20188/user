@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,BAND
+http://clarotv.org:80/C311/pR2Sy5/79312
+
 #EXTINF:-1,PREMIER LEAGUE
 https://futbollibre.ch/1.php?stream=espn
 #EXTINF:-1,MEGAPIX WEB
