@@ -1,13 +1,6 @@
 {
-   "SetViewMode":"55",
-   "items":[
-      {
-         "title":"[COLOR blue]====== ENTER LR ADDON ======[/COLOR]",
-         "externallink":"https://test34344.herokuapp.com/filter.php",
-         "thumbnail":"https://www.dropbox.com/s/ytwtdplp3osfwyy/mandrakodi.jpg?dl=1",
-         "fanart":"https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-         "info":"Disclaimer",
-         "enabled":1
-      }
-   ]
+  "name": "Canal Exemplo",
+  "category": "Esportes",
+  "logo": "https://seu-site.com/logo.png",
+  "url": "https://esportesembed.net/bologna-x-lazio-1"
 }
