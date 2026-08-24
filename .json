@@ -1,20 +1,12 @@
-[
-  {
-    "name": "Canal Exemplo",
-    "category": "Esportes",
-    "logo": "https://seu-site.com/logo.png",
-    "url": "https://esportesembed.net/bologna-x-lazio-1"
-  },
-  {
-    "name": "Canal Exemplo 2",
-    "category": "Esportes",
-    "logo": "https://seu-site.com/logo.png",
-    "url": "https://futbollibre.ch/online/canal.php?stream=liga1max"
-  },
-  {
-    "name": "AeE ",
-    "category": "Esportes",
-    "logo": "https://seu-site.com/logo.png",
-    "url": "https://rdcanais.net/ae"
-  }
-]
+#EXTM3U
+
+#EXTINF:-1,PREMIER LEAGUE
+https://futbollibre.ch/1.php?stream=espn
+#EXTINF:-1,MEGAPIX WEB
+https://rdcanais.net/megapix
+#EXTINF:-1,winsports2
+https://futbollibre.ch/hd.php?stream=winsports2
+#EXTINF:-1,tc
+https://rdcanais.net/telecineaction
+#EXTINF:-1,tc
+https://rdcanais.net/telecinepipoca
