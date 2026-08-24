@@ -1,14 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,BAND
-http://clarotv.org:80/C311/pR2Sy5/79312
-
+#EXTINF:-1,sportv web
+https://v1.rdse.lat/sportv?cf_rd_sig=eyJ2IjoxLCJpYXQiOjE3ODc1NDI4MTUsImZyb20iOiJyZHNlLnNpdGUiLCJ0byI6InYxLnJkc2UubGF0IiwicGF0aCI6Ii9zcG9ydHYiLCJyZWYiOiJmdXRlbWF4Lmx1eHVyeSIsIm9yaWdpbiI6IiIsInVhaCI6ImY5ZDllNWZjN2E5ZTUxNjY2ODZiIiwiaXBiIjoiZjdkMWNlMmVlNGNjMTI0MiJ9.a6199c7a0ec9b4761b351f06d114a2bd10b53bc039295b14d3d843e473ea2d0e
 #EXTINF:-1,PREMIER LEAGUE
 https://futbollibre.ch/1.php?stream=espn
 #EXTINF:-1,MEGAPIX WEB
 https://rdcanais.net/megapix
-#EXTINF:-1,JOGO 2
-https://esportesembed.net/udinese-x-como-1
+#EXTINF:-1,winsports2
+https://futbollibre.ch/hd.php?stream=winsports2
+#EXTINF:-1,tc
+https://rdcanais.net/telecineaction
+#EXTINF:-1,tc
+https://rdcanais.net/telecinepipoca
 #EXTINF:-1,Chaves 
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://clarotv.org/static/logos/canais/a%26e.png",A&E 4K
