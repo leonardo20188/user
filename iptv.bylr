@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,pfc alternativo
+https://rdcanais.net/premiereclubesalternativo
+#EXTINF:-1,pfc
+https://rdcanais.net/premiereclubes
+
+#EXTINF:-1,sbt
+https://esportesembed.net/bodoglimt-x-nec-nijmegen-1
+
 #EXTINF:-1,teste1
 https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
 
