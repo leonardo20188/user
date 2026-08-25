@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:-1,teste1
+https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
+
+#EXTINF:-1,teste2
+https://www.youtube.com/embed/LLpNUqHVam8?si=HCvuCz9OoQ2laxXR
+
+#EXTINF:-1,teste3
+https://geo.dailymotion.com/player.html?video=x8e4om2
+
 #EXTINF:-1,sportv web
 https://v1.rdse.lat/sportv?cf_rd_sig=eyJ2IjoxLCJpYXQiOjE3ODc1NDI4MTUsImZyb20iOiJyZHNlLnNpdGUiLCJ0byI6InYxLnJkc2UubGF0IiwicGF0aCI6Ii9zcG9ydHYiLCJyZWYiOiJmdXRlbWF4Lmx1eHVyeSIsIm9yaWdpbiI6IiIsInVhaCI6ImY5ZDllNWZjN2E5ZTUxNjY2ODZiIiwiaXBiIjoiZjdkMWNlMmVlNGNjMTI0MiJ9.a6199c7a0ec9b4761b351f06d114a2bd10b53bc039295b14d3d843e473ea2d0e
 #EXTINF:-1,PREMIER LEAGUE
