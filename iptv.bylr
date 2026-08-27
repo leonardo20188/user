@@ -26,6 +26,10 @@ https://geo.dailymotion.com/player.html?video=x8e4om2
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1,PREMIER LEAGUE
 https://futbollibre.ch/1.php?stream=espn
+#EXTINF:-1,PREMIER LEAGUE 2
+https://futbollibre.ch/5.php?stream=espn
+#EXTINF:-1,PREMIER LEAGUE 3
+http://futbollibre.ch/5.php?stream=espn
 #EXTINF:-1,MEGAPIX WEB
 https://rdcanais.net/megapix
 #EXTINF:-1,winsports2
