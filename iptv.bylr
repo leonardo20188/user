@@ -1,4 +1,81 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://os3.me/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
+http://os3.me:80/900196/4Wv8vQ/90647.ts
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://os3.me/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
+http://os3.me:80/900196/4Wv8vQ/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://os3.me/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71761.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://os3.me/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
+http://os3.me:80/900196/4Wv8vQ/71762.m3u8
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://os3.me/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
+http://os3.me:80/900196/4Wv8vQ/71763.ts
+#EXTINF:-1 tvg-name="AgroMais 4K" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais 4K
+http://os3.me:80/900196/4Wv8vQ/103532.ts
+#EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD
+http://os3.me:80/900196/4Wv8vQ/71764.ts
+#EXTINF:-1 tvg-name="AgroMais FHD [H265]" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71765.ts
+#EXTINF:-1 tvg-name="AgroMais HD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais HD
+http://os3.me:80/900196/4Wv8vQ/71766.ts
+#EXTINF:-1 tvg-name="AgroMais SD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais SD
+http://os3.me:80/900196/4Wv8vQ/71767.ts
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://os3.me/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K
+http://os3.me:80/900196/4Wv8vQ/90646.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://os3.me/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://os3.me:80/900196/4Wv8vQ/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://os3.me/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71769.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://os3.me/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://os3.me:80/900196/4Wv8vQ/71770.ts
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://os3.me/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+http://os3.me:80/900196/4Wv8vQ/71771.ts
+#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://os3.me/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet 4K
+http://os3.me:80/900196/4Wv8vQ/71774.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://os3.me/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+http://os3.me:80/900196/4Wv8vQ/71772.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://os3.me/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71773.ts
+#EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://os3.me/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://os3.me:80/900196/4Wv8vQ/71775.ts
+#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://os3.me/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
+http://os3.me:80/900196/4Wv8vQ/71776.ts
+#EXTINF:-1 tvg-name="Arte 1 4K" tvg-logo="http://os3.me/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 4K
+http://os3.me:80/900196/4Wv8vQ/103531.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://os3.me/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+http://os3.me:80/900196/4Wv8vQ/71777.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://os3.me/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71778.ts
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://os3.me/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+http://os3.me:80/900196/4Wv8vQ/71779.ts
+#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://os3.me/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
+http://os3.me:80/900196/4Wv8vQ/71780.ts
+#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN 4K
+http://os3.me:80/900196/4Wv8vQ/90645.ts
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://os3.me:80/900196/4Wv8vQ/71781.ts
+#EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71782.ts
+#EXTINF:-1 tvg-name="AXN FHD [LEG]" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN FHD [LEG]
+http://os3.me:80/900196/4Wv8vQ/90716.ts
+#EXTINF:-1 timeshift="7" tvg-name="AXN HD" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://os3.me:80/900196/4Wv8vQ/71783.ts
+#EXTINF:-1 tvg-name="AXN HD [LEG]" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN HD [LEG]
+http://os3.me:80/900196/4Wv8vQ/90715.ts
+#EXTINF:-1 tvg-name="AXN SD" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+http://os3.me:80/900196/4Wv8vQ/71784.ts
+#EXTINF:-1 tvg-name="AXN SD [LEG]" tvg-logo="http://os3.me/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN SD [LEG]
+http://os3.me:80/900196/4Wv8vQ/90714.ts
+#EXTINF:-1 tvg-name="Band News 4K" tvg-logo="http://os3.me/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News 4K
+http://os3.me:80/900196/4Wv8vQ/103526.ts
+#EXTINF:-1 tvg-name="Band News FHD" tvg-logo="http://os3.me/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+http://os3.me:80/900196/4Wv8vQ/71789.ts
+#EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="http://os3.me/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
+http://os3.me:80/900196/4Wv8vQ/71790.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band News HD" tvg-logo="http://os3.me/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://os3.me:80/900196/4Wv8vQ/71791.ts
+#EXTINF:-1 tvg-name="Band News SD" tvg-logo="http://os3.me/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Notícias",Band News SD
+http://os3.me:80/900196/4Wv8vQ/71792.ts
 
 #EXTINF:-1,primevideo m3u8
 https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/8159d2bfc4191d4960449b1b67a3dda2/file.txt
