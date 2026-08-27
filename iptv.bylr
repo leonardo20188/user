@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1,primevideo m3u8
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/8159d2bfc4191d4960449b1b67a3dda2/file.txt
 
 #EXTINF:-1,primevideo
 https://esportesembed.net/internacional-x-gremio-1
