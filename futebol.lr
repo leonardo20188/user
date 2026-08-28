@@ -1,24 +1,93 @@
-#EXTM3U
-
-#EXTINF:-1,band
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Band
 https://rdcanais.net/band
-#EXTINF:-1,espn
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",espn
 https://rdcanais.net/espn
-#EXTINF:-1,sportv
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sportv
 https://rdcanais.net/sportvalternativo
-#EXTINF:-1,space
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",space
 https://rdcanais.net/space
-#EXTINF:-1,pfc alternativo
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",pfc alternativo
 https://rdcanais.net/premiereclubesalternativo
-#EXTINF:-1,tc pipoca
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sportvvvv
+https://links.temporariofutemais.com/prime.php?c=canal1
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc pipoca
 https://rdcanais.net/telecinepipoca
-#EXTINF:-1,pfc
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",pfc
 https://rdcanais.net/premiereclubes
-#EXTINF:-1,PREMIER LEAGUE
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sbt
+https://esportesembed.net/bodoglimt-x-nec-nijmegen-1
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",teste1
+https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",chave
+http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE
 https://futbollibre.ch/1.php?stream=espn
-#EXTINF:-1,MEGAPIX WEB
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 2
+https://futbollibre.ch/5.php?stream=espn
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 3
+http://futbollibre.ch/5.php?stream=espn
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",MEGAPIX WEB
 https://rdcanais.net/megapix
-#EXTINF:-1,winsports2
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",winsports2
 https://futbollibre.ch/hd.php?stream=winsports2
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",winsports2
+https://futbollibre.ch/1.php?stream=winsports2
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc action
+https://rdcanais.net/telecineaction
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc pipoca
+https://rdcanais.net/telecinepipoca
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",futmais
+https://links.temporariofutemais.com/prime.php?c=canal2
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Primevideo
+https://nossoplayeronlinehd.ink/tv/primevideo
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Primevideo alternativo
+https://ww5.embedtv.lat/primevideo
 
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Sexprive
+http://reidetodos.fun:80/live/412205509550/797167927956/101558.m3u8
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Sextreme
+http://reidetodos.fun:80/live/412205509550/797167927956/208428.m3u8
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Playboy
+http://reidetodos.fun:80/live/412205509550/797167927956/208407.m3u8
 
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DBZ
+https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SPORTV BR
+https://daddylive.mov/player/embed.php?id=Sport-TV-1-BR
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Toocast
+https://rdcanais.net/tooncast
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Teste toocast
+https://reidoscanais.st/canal/tooncast
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Retro
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1659435782.m3u8
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Litoral TV
+https://ssh101.com/viewlive.php?s=litoraltv
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT
+https://reidoscanais.st/canal/tnt
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DAILYMOTIO
+https://geo.dailymotion.com/player.html?video=x6ia85r&
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sportv portugal
+https://vavoo.to/watch?live=3966581533812bd3be6382
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Beinsports La Liga
+https://vavoo.to/watch?live=3939390473ccb14145d1c8
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Beinsports 2
+https://vavoo.to/watch?live=5812925251f1a9e631d0e
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Beinsports 3
+https://vavoo.to/watch?live=358022513199a152e11448
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Danz
+https://vavoo.to/watch?live=159161825088f781d1e3b7
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Espn deporte
+https://vavoo.to/watch?live=264841934483c891812cda
