@@ -3651,5 +3651,5 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1659435782.m3u8
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Litoral TV
 https://ssh101.com/viewlive.php?s=litoraltv
-
-
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT
+https://reidoscanais.st/canal/tnt
