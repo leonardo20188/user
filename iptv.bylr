@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png",RecordTV SP UHD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/244074.m3u8
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png",ESPN 4 UHD
@@ -2699,24 +2700,6 @@ http://bolsonaro26.cfd:80/live/713439414/almir3930/112071.m3u8
 http://bolsonaro26.cfd:80/live/713439414/almir3930/112081.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",HBO Portugal
 http://bolsonaro26.cfd:80/live/713439414/almir3930/111976.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",Hollywood HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/111967.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",ID Invesigation Discovery HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112064.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",Kuriakos TV FHD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112105.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",Lolly Kids
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112091.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",M6 Music HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112103.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",MCM POP SD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112098.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",MCM TOP
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112097.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",Mezzo Live FHD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112099.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",MotorVision TV SD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112076.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",MTV Live HD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/112096.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",MTV Portugal HD
@@ -2737,10 +2720,6 @@ http://bolsonaro26.cfd:80/live/713439414/almir3930/112077.m3u8
 http://bolsonaro26.cfd:80/live/713439414/almir3930/112029.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",PFC SD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/112070.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",Porto Canal HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112051.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",PT- 24 Kitchen HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/112046.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",PT- AMC HD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/111973.m3u8
 #EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",PT- AXN HD
@@ -2845,12 +2824,6 @@ http://bolsonaro26.cfd:80/live/713439414/almir3930/273451.m3u8
 http://bolsonaro26.cfd:80/live/713439414/almir3930/565031.m3u8
 #EXTINF:-1 group-title="Canais | PT Eleven Sport" tvg-logo="http://beststorage4you.com:80/logoscanais/ELEVENSPORTS.png",PT: Eleven Sport 1 HD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/608868.m3u8
-#EXTINF:-1 group-title="Canais | Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png",PT- Combate FHD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/613471.m3u8
-#EXTINF:-1 group-title="Canais | Sport World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU",PT EUROSPORT 2 HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/324256.m3u8
-#EXTINF:-1 group-title="Canais | Sport World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU",PT EUROSPORT 1 HD
-http://bolsonaro26.cfd:80/live/713439414/almir3930/577553.m3u8
 #EXTINF:-1 group-title="Canais | Adultos +18" tvg-logo="http://beststorage4you.com:80/logoscanais/ADULTOS-24-HORAS.png",PlayBoy TV FHD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/260418.m3u8
 #EXTINF:-1 group-title="Canais | Adultos +18" tvg-logo="http://beststorage4you.com:80/logoscanais/ADULTOS-24-HORAS.png",PlayBoy TV HD
@@ -3571,13 +3544,8 @@ http://bolsonaro26.cfd:80/live/713439414/almir3930/546896.m3u8
 http://bolsonaro26.cfd:80/live/713439414/almir3930/546897.m3u8
 #EXTINF:-1 group-title="Canais | Adultos +18" tvg-logo="http://beststorage4you.com:80/logoscanais/ADULTOS-24-HORAS.png",SexyHot FHD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/546898.m3u8
-#EXTINF:-1 group-title="Canais | Italia" tvg-logo="http://beststorage4you.com/logoscanais/italia.png",IT- SKY SPORTS MOTO GP
-http://bolsonaro26.cfd:80/live/713439414/almir3930/121581.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",
 
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Band
@@ -3590,21 +3558,20 @@ https://rdcanais.net/sportvalternativo
 https://rdcanais.net/space
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",pfc alternativo
 https://rdcanais.net/premiereclubesalternativo
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sportvvvv
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sportv
 https://links.temporariofutemais.com/prime.php?c=canal1
+
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc pipoca
 https://rdcanais.net/telecinepipoca
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",pfc
 https://rdcanais.net/premiereclubes
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",sbt
-https://esportesembed.net/bodoglimt-x-nec-nijmegen-1
+
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",teste1
 https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",chave
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE
-https://futbollibre.ch/1.php?stream=espn
+
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 2
 https://futbollibre.ch/5.php?stream=espn
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 3
@@ -3621,6 +3588,7 @@ https://rdcanais.net/telecineaction
 https://rdcanais.net/telecinepipoca
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",futmais
 https://links.temporariofutemais.com/prime.php?c=canal2
+
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Primevideo
 https://nossoplayeronlinehd.ink/tv/primevideo
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Primevideo alternativo
@@ -3642,16 +3610,13 @@ https://daddylive.mov/player/embed.php?id=Sport-TV-1-BR
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Toocast
 https://rdcanais.net/tooncast
 
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",Teste toocast
-https://reidoscanais.st/canal/tooncast
-
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Retro
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1659435782.m3u8
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Litoral TV
 https://ssh101.com/viewlive.php?s=litoraltv
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT
-https://reidoscanais.st/canal/tnt
+https://rdcanais.net/tnt
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",DAILYMOTIO
 https://geo.dailymotion.com/player.html?video=x6ia85r&
@@ -3673,11 +3638,6 @@ https://vavoo.to/watch?live=159161825088f781d1e3b7
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Espn deporte
 https://vavoo.to/watch?live=264841934483c891812cda
-
-
-
-
-
 
 
 
