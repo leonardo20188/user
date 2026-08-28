@@ -3545,8 +3545,20 @@ http://bolsonaro26.cfd:80/live/713439414/almir3930/546897.m3u8
 #EXTINF:-1 group-title="Canais | Adultos +18" tvg-logo="http://beststorage4you.com:80/logoscanais/ADULTOS-24-HORAS.png",SexyHot FHD
 http://bolsonaro26.cfd:80/live/713439414/almir3930/546898.m3u8
 
-
-
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 
+https://links.temporariofutemais.com/prime.php?c=canal1
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 2
+https://links.temporariofutemais.com/prime.php?c=canal2
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 3
+https://links.temporariofutemais.com/prime.php?c=canal3
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 4
+https://links.temporariofutemais.com/prime.php?c=canal4
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 5
+https://links.temporariofutemais.com/prime.php?c=canal5
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 6
+https://links.temporariofutemais.com/prime.php?c=canal6
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 7
+https://links.temporariofutemais.com/prime.php?c=canal7
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",Band
 https://rdcanais.net/band
@@ -3566,22 +3578,11 @@ https://rdcanais.net/telecinepipoca
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",pfc
 https://rdcanais.net/premiereclubes
 
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",teste1
-https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
-
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",chave
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 2
-https://futbollibre.ch/5.php?stream=espn
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE 3
-http://futbollibre.ch/5.php?stream=espn
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",MEGAPIX WEB
 https://rdcanais.net/megapix
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",winsports2
-https://futbollibre.ch/hd.php?stream=winsports2
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",winsports2
-https://futbollibre.ch/1.php?stream=winsports2
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc action
 https://rdcanais.net/telecineaction
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",tc pipoca
@@ -3641,5 +3642,166 @@ https://vavoo.to/watch?live=264841934483c891812cda
 
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",TV PANTANAL MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w169872343.m3u8
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN
+https://tvf90.com/online.php?stream=espn
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 2
+https://tvf90.com/online.php?stream=espn2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 3
+https://tvf90.com/online.php?stream=espn3
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 4
+https://tvf90.com/online.php?stream=espn4
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 5
+https://tvf90.com/online.php?stream=espn5
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 6
+https://tvf90.com/online.php?stream=espn6
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 7
+https://tvf90.com/online.php?stream=espn7
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DSPORTS
+https://tvf90.com/online.php?stream=dsports
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DSPORTS 2
+https://tvf90.com/online.php?stream=dsports2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",VTV
+https://tvf90.com/online.php?stream=vtvplus
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS 
+https://tvf90.com/online.php?stream=foxsports
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS 2
+https://tvf90.com/online.php?stream=foxsports2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS 3
+https://tvf90.com/online.php?stream=foxsports3
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT SPORTS
+https://tvf90.com/online.php?stream=tntsports
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN PREMIUM
+https://tvf90.com/online.php?stream=espnpremium
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TYC SPORTS
+https://tvf90.com/online.php?stream=tycsports
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",LIGA MX
+https://tvf90.com/online.php?stream=liga1max
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",MOVISTAR
+https://tvf90.com/online.php?stream=movistar
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",WINSPORTS PLUS
+https://tvf90.com/online.php?stream=winsportsplus
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",WINSPORTS 2
+https://tvf90.com/online.php?stream=winsports2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",WINSPORTS 
+https://tvf90.com/online.php?stream=winsports
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS MX 
+https://tvf90.com/online.php?stream=foxsportsmx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS MX 2
+https://tvf90.com/online.php?stream=foxsports2mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX SPORTS MX 3
+https://tvf90.com/online.php?stream=foxsports3mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TUDN MX
+https://tvf90.com/online.php?stream=tudn_mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN MX 
+https://tvf90.com/online.php?stream=espnmx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN MX 2
+https://tvf90.com/online.php?stream=espn2mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN MX 3
+https://tvf90.com/online.php?stream=espn3mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN MX 4
+https://tvf90.com/online.php?stream=espn4mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",AZTECA 7
+https://tvf90.com/online.php?stream=azteca7
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",CANAL 5
+https://tvf90.com/online.php?stream=canal5
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SKYSPORTS
+https://tvf90.com/online.php?stream=sky_sports_laliga
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",BUSDELIGA
+https://tvf90.com/online.php?stream=sky_bundesliga_mx
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOX DEPORTES
+https://tvf90.com/online.php?stream=foxdeportes
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN DEPORTES
+https://tvf90.com/online.php?stream=espndeportes
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TUDN
+https://tvf90.com/online.php?stream=tudn
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOXSPORTS USA
+https://tvf90.com/online.php?stream=foxsports1_usa
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FOXSPORTS 2 USA
+https://tvf90.com/online.php?stream=foxsports2_usa
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN USA
+https://tvf90.com/online.php?stream=espn_usa
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 2 USA
+https://tvf90.com/online.php?stream=espn2_usa
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT Chile
+https://tvf90.com/online.php?stream=eventos13
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC
+https://tvf90.com/online.php?stream=premiere1
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 2
+https://tvf90.com/online.php?stream=premiere2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 3
+https://tvf90.com/online.php?stream=premiere3
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 4
+https://tvf90.com/online.php?stream=premiere4
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 5
+https://tvf90.com/online.php?stream=premiere5
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 6
+https://tvf90.com/online.php?stream=premiere6
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 7
+https://tvf90.com/online.php?stream=premiere7
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",PFC 8
+https://tvf90.com/online.php?stream=premiere8
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SPORTV 
+https://tvf90.com/online.php?stream=sportv
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SPORTV 2
+https://tvf90.com/online.php?stream=sportv2
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SPORTV 3
+https://tvf90.com/online.php?stream=sportv3
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DAZN
+https://tvf90.com/online.php?stream=dazn1
+
+
 
 
