@@ -3600,8 +3600,7 @@ https://rdcanais.net/premiereclubes
 https://esportesembed.net/bodoglimt-x-nec-nijmegen-1
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",teste1
 https://30aaf34d6afd4b11cc3b3ac4704c7908.s21-cloudfront-net.lat/embedtv/65aa082563e4e6d24ca0878d4e666afd/file.txt
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="",teste3
-https://geo.dailymotion.com/player.html?video=x8e4om2
+
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",chave
 http://live.myzapptv.com/live/f8qli60e1w5c.m3u8
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",PREMIER LEAGUE
@@ -3653,3 +3652,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1659435782.m3u8
 https://ssh101.com/viewlive.php?s=litoraltv
 #EXTINF:-1 group-title="Canais | LR" tvg-logo="",TNT
 https://reidoscanais.st/canal/tnt
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",DAILYMOTIO
+https://geo.dailymotion.com/player.html?video=x6ia85r&
+
+
+
