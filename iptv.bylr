@@ -1,5 +1,20 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="https://cdn.reidoscanais.st/imagens/ae.png",sports53
+https://www.redtube.com.br/102775971
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="https://cdn.reidoscanais.st/imagens/ae.png",A&E7
+https://livestreamlinks.net/pt/tv-online/argentina/24-7-canal-de-noticias
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="https://cdn.reidoscanais.st/imagens/ae.png",A&E
+https://rdcanais.net/ae
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",FUTEBOL 1
+https://links.temporariofutemais.com/prime.php?c=canal1
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",SPORTV BR*
+https://streamtp-golden1.click/global1.php?stream=sporttvbr1
+
+#EXTINF:-1 group-title="Canais | LR" tvg-logo="",ESPN 1
+https://streamtp-golden1.click/global1.php?stream=espn
+
 #EXTINF:-1 group-title="GLOBO SUDESTE" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png",Atualizada 17/09
 http://sventank.com:80/live/123123123/123123123/62169.m3u8
 #EXTINF:-1 group-title="GLOBO SUDESTE" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png",Globo SP FHD
