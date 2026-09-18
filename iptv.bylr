@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | LR" tvg-logo="https://cdn.reidoscanais.st/imagens/ae.png",sports56
-https://meufut.top/premiere
-
 
 #EXTINF:-1 group-title="GLOBO SUDESTE" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png",Globo SP FHD
 http://sventank.com:80/live/123123123/123123123/62169.m3u8
