@@ -1,0 +1,1120 @@
+```html
+<style>
+#iptvApp{
+    --bg:#070a0f;
+    --panel:#11161d;
+    --panel2:#191f28;
+    --border:#29313c;
+    --text:#f5f7fa;
+    --muted:#8993a1;
+    --red:#e50914;
+    background:var(--bg);
+    color:var(--text);
+    width:100%;
+    min-height:700px;
+    font-family:Arial,sans-serif;
+}
+
+#iptvApp *{
+    box-sizing:border-box;
+}
+
+.iptv-header{
+    padding:18px;
+    background:linear-gradient(180deg,#121820,#070a0f);
+    border-bottom:1px solid var(--border);
+}
+
+.iptv-title{
+    font-size:24px;
+    font-weight:bold;
+    margin-bottom:15px;
+}
+
+.iptv-live{
+    background:var(--red);
+    padding:5px 8px;
+    border-radius:5px;
+    font-size:11px;
+    margin-right:8px;
+}
+
+.iptv-search{
+    width:100%;
+    padding:13px;
+    background:#080b10;
+    color:white;
+    border:1px solid var(--border);
+    border-radius:8px;
+    outline:none;
+}
+
+.iptv-layout{
+    display:grid;
+    grid-template-columns:220px 1fr;
+}
+
+.iptv-sidebar{
+    background:#0c1117;
+    border-right:1px solid var(--border);
+    padding:12px;
+}
+
+.iptv-sidebar-title{
+    color:var(--muted);
+    font-size:11px;
+    margin:8px;
+    text-transform:uppercase;
+}
+
+.iptv-category{
+    width:100%;
+    padding:11px;
+    margin-bottom:4px;
+    border:0;
+    border-radius:7px;
+    background:transparent;
+    color:#cbd2da;
+    text-align:left;
+    cursor:pointer;
+}
+
+.iptv-category:hover,
+.iptv-category.active{
+    background:var(--panel2);
+    color:white;
+}
+
+.iptv-content{
+    padding:18px;
+}
+
+.iptv-player{
+    background:#000;
+    border:1px solid var(--border);
+    border-radius:10px;
+    overflow:hidden;
+    margin-bottom:10px;
+}
+
+#clapprPlayer{
+    width:100%;
+    height:480px;
+    background:#000;
+}
+
+.iptv-now{
+    padding:12px;
+    background:#11161d;
+    font-size:14px;
+}
+
+.iptv-now span{
+    color:var(--muted);
+}
+
+.iptv-diagnostic{
+    padding:10px 12px;
+    background:#0d1218;
+    color:#8993a1;
+    font-size:12px;
+    border-top:1px solid var(--border);
+}
+
+.iptv-diagnostic.ok{
+    color:#7ee787;
+}
+
+.iptv-diagnostic.error{
+    color:#ff7777;
+}
+
+.iptv-count{
+    color:var(--muted);
+    font-size:13px;
+    margin:18px 0 12px;
+}
+
+.iptv-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+    gap:12px;
+}
+
+.iptv-channel{
+    position:relative;
+    min-height:145px;
+    padding:12px;
+    background:var(--panel);
+    border:1px solid var(--border);
+    border-radius:9px;
+    cursor:pointer;
+}
+
+.iptv-channel:hover{
+    background:var(--panel2);
+    transform:translateY(-2px);
+}
+
+.iptv-logo{
+    display:block;
+    width:100%;
+    height:75px;
+    object-fit:contain;
+    margin-bottom:10px;
+}
+
+.iptv-channel-name{
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-size:13px;
+    font-weight:bold;
+}
+
+.iptv-channel-group{
+    color:var(--muted);
+    font-size:11px;
+    margin-top:5px;
+}
+
+.iptv-fav{
+    position:absolute;
+    right:7px;
+    top:7px;
+    width:28px;
+    height:28px;
+    border:0;
+    border-radius:50%;
+    background:rgba(0,0,0,.7);
+    color:#777;
+    cursor:pointer;
+    z-index:5;
+}
+
+.iptv-fav.active{
+    color:#ffd21c;
+}
+
+.iptv-status{
+    padding:30px;
+    text-align:center;
+    color:var(--muted);
+}
+
+.iptv-error{
+    color:#ff7777;
+}
+
+@media(max-width:700px){
+
+    .iptv-layout{
+        display:block;
+    }
+
+    .iptv-sidebar{
+        border-right:0;
+        border-bottom:1px solid var(--border);
+        overflow-x:auto;
+        white-space:nowrap;
+    }
+
+    .iptv-category{
+        display:inline-block;
+        width:auto;
+    }
+
+    .iptv-content{
+        padding:10px;
+    }
+
+    #clapprPlayer{
+        height:250px;
+    }
+
+    .iptv-grid{
+        grid-template-columns:repeat(2,minmax(0,1fr));
+        gap:8px;
+    }
+}
+</style>
+
+
+<div id="iptvApp">
+
+    <div class="iptv-header">
+
+        <div class="iptv-title">
+            <span class="iptv-live">LIVE</span>
+            Meu IPTV
+        </div>
+
+        <input
+            id="iptvSearch"
+            class="iptv-search"
+            type="search"
+            placeholder="🔎 Pesquisar canal..."
+        >
+
+    </div>
+
+
+    <div class="iptv-layout">
+
+        <aside class="iptv-sidebar">
+
+            <div class="iptv-sidebar-title">
+                Categorias
+            </div>
+
+            <button
+                class="iptv-category active"
+                data-cat="TODOS">
+                Todos
+            </button>
+
+            <button
+                class="iptv-category"
+                data-cat="FAVORITOS">
+                ⭐ Favoritos
+            </button>
+
+            <div id="iptvCategories"></div>
+
+        </aside>
+
+
+        <main class="iptv-content">
+
+            <div class="iptv-player">
+
+                <div id="clapprPlayer"></div>
+
+                <div class="iptv-now">
+                    <span>Assistindo:</span>
+                    <strong id="iptvCurrent">
+                        Selecione um canal
+                    </strong>
+                </div>
+
+                <div
+                    id="iptvDiagnostic"
+                    class="iptv-diagnostic">
+                    Aguardando canal...
+                </div>
+
+            </div>
+
+
+            <div id="iptvCount" class="iptv-count">
+                Carregando...
+            </div>
+
+
+            <div id="iptvGrid" class="iptv-grid">
+
+                <div class="iptv-status">
+                    Carregando canais...
+                </div>
+
+            </div>
+
+        </main>
+
+    </div>
+
+</div>
+
+
+<!-- CLAPPR -->
+
+<script src="https://cdn.jsdelivr.net/npm/clappr@0.4.0/dist/clappr.min.js"></script>
+
+<!-- HLS.JS -->
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
+
+
+<script>
+(function(){
+
+"use strict";
+
+
+/* =====================================================
+   PLAYLIST
+   ===================================================== */
+
+const PLAYLIST_URL =
+"https://raw.githubusercontent.com/leonardo20188/user/main/iptv.bylr";
+
+
+/* =====================================================
+   ELEMENTOS
+   ===================================================== */
+
+const grid =
+document.getElementById("iptvGrid");
+
+const categories =
+document.getElementById("iptvCategories");
+
+const search =
+document.getElementById("iptvSearch");
+
+const current =
+document.getElementById("iptvCurrent");
+
+const count =
+document.getElementById("iptvCount");
+
+const diagnostic =
+document.getElementById("iptvDiagnostic");
+
+
+let channels = [];
+
+let category = "TODOS";
+
+let player = null;
+
+
+/* =====================================================
+   DIAGNÓSTICO
+   ===================================================== */
+
+function status(message,type){
+
+    diagnostic.textContent =
+        message;
+
+    diagnostic.className =
+        "iptv-diagnostic " +
+        (type || "");
+
+}
+
+
+/* =====================================================
+   FAVORITOS
+   ===================================================== */
+
+function favorites(){
+
+    try{
+
+        return JSON.parse(
+            localStorage.getItem(
+                "iptv_favorites"
+            ) || "[]"
+        );
+
+    }catch(e){
+
+        return [];
+
+    }
+
+}
+
+
+function favorite(url){
+
+    return favorites().includes(url);
+
+}
+
+
+function toggleFavorite(url){
+
+    let list =
+        favorites();
+
+    if(list.includes(url)){
+
+        list =
+            list.filter(
+                x => x !== url
+            );
+
+    }else{
+
+        list.push(url);
+
+    }
+
+    localStorage.setItem(
+        "iptv_favorites",
+        JSON.stringify(list)
+    );
+
+    render();
+
+}
+
+
+/* =====================================================
+   PARSER
+   ===================================================== */
+
+function parseM3U(text){
+
+    const lines =
+        text
+        .replace(/\r/g,"")
+        .split("\n")
+        .map(x => x.trim())
+        .filter(Boolean);
+
+
+    const result = [];
+
+    let info = null;
+
+
+    for(let i=0;i<lines.length;i++){
+
+        const line =
+            lines[i];
+
+
+        if(line.startsWith("#EXTINF")){
+
+            info = line;
+
+            continue;
+
+        }
+
+
+        if(
+            info &&
+            !line.startsWith("#") &&
+            /^https?:\/\//i.test(line)
+        ){
+
+            const comma =
+                info.lastIndexOf(",");
+
+
+            const name =
+                comma >= 0
+                ? info.substring(comma+1).trim()
+                : "Canal";
+
+
+            const group =
+                (
+                    info.match(
+                        /group-title="([^"]*)"/i
+                    ) || []
+                )[1] || "Outros";
+
+
+            const logo =
+                (
+                    info.match(
+                        /tvg-logo="([^"]*)"/i
+                    ) || []
+                )[1] || "";
+
+
+            result.push({
+
+                name:name,
+
+                url:line,
+
+                group:group,
+
+                logo:logo
+
+            });
+
+
+            info = null;
+
+        }
+
+    }
+
+
+    return result;
+
+}
+
+
+/* =====================================================
+   CATEGORIAS
+   ===================================================== */
+
+function renderCategories(){
+
+    const list =
+        [...new Set(
+            channels
+            .map(x => x.group)
+            .filter(Boolean)
+        )].sort();
+
+
+    categories.innerHTML = "";
+
+
+    list.forEach(cat => {
+
+        const button =
+            document.createElement("button");
+
+
+        button.className =
+            "iptv-category";
+
+
+        button.dataset.cat =
+            cat;
+
+
+        button.textContent =
+            cat;
+
+
+        button.onclick =
+            function(){
+
+                category = cat;
+
+                updateButtons();
+
+                render();
+
+            };
+
+
+        categories.appendChild(button);
+
+    });
+
+}
+
+
+function updateButtons(){
+
+    document
+    .querySelectorAll(".iptv-category")
+    .forEach(button => {
+
+        button.classList.toggle(
+            "active",
+            button.dataset.cat === category
+        );
+
+    });
+
+}
+
+
+/* =====================================================
+   FILTRAR
+   ===================================================== */
+
+function filtered(){
+
+    const term =
+        search.value
+        .toLowerCase()
+        .trim();
+
+
+    return channels.filter(channel => {
+
+        const text =
+            (
+                channel.name +
+                " " +
+                channel.group
+            ).toLowerCase();
+
+
+        const searchOK =
+            !term ||
+            text.includes(term);
+
+
+        let categoryOK = true;
+
+
+        if(category === "FAVORITOS"){
+
+            categoryOK =
+                favorite(channel.url);
+
+        }
+        else if(category !== "TODOS"){
+
+            categoryOK =
+                channel.group === category;
+
+        }
+
+
+        return searchOK &&
+               categoryOK;
+
+    });
+
+}
+
+
+/* =====================================================
+   RENDER
+   ===================================================== */
+
+function render(){
+
+    const list =
+        filtered();
+
+
+    count.textContent =
+        list.length +
+        " canal" +
+        (list.length === 1 ? "" : "is");
+
+
+    grid.innerHTML = "";
+
+
+    if(!list.length){
+
+        grid.innerHTML =
+            '<div class="iptv-status">' +
+            'Nenhum canal encontrado.' +
+            '</div>';
+
+        return;
+
+    }
+
+
+    list.forEach(channel => {
+
+        const card =
+            document.createElement("div");
+
+
+        card.className =
+            "iptv-channel";
+
+
+        const fav =
+            document.createElement("button");
+
+
+        fav.className =
+            "iptv-fav" +
+            (
+                favorite(channel.url)
+                ? " active"
+                : ""
+            );
+
+
+        fav.textContent =
+            favorite(channel.url)
+            ? "★"
+            : "☆";
+
+
+        fav.onclick =
+            function(e){
+
+                e.stopPropagation();
+
+                toggleFavorite(
+                    channel.url
+                );
+
+            };
+
+
+        card.appendChild(fav);
+
+
+        if(channel.logo){
+
+            const img =
+                document.createElement("img");
+
+
+            img.className =
+                "iptv-logo";
+
+
+            img.src =
+                channel.logo;
+
+
+            img.onerror =
+                function(){
+
+                    this.style.display =
+                        "none";
+
+                };
+
+
+            card.appendChild(img);
+
+        }
+
+
+        const name =
+            document.createElement("div");
+
+
+        name.className =
+            "iptv-channel-name";
+
+
+        name.textContent =
+            channel.name;
+
+
+        card.appendChild(name);
+
+
+        const group =
+            document.createElement("div");
+
+
+        group.className =
+            "iptv-channel-group";
+
+
+        group.textContent =
+            channel.group;
+
+
+        card.appendChild(group);
+
+
+        card.onclick =
+            function(){
+
+                play(channel);
+
+            };
+
+
+        grid.appendChild(card);
+
+    });
+
+}
+
+
+/* =====================================================
+   PLAYER
+   ===================================================== */
+
+function play(channel){
+
+    current.textContent =
+        channel.name;
+
+
+    status(
+        "Tentando abrir o canal...",
+        ""
+    );
+
+
+    if(player){
+
+        try{
+
+            player.destroy();
+
+        }catch(e){}
+
+        player = null;
+
+    }
+
+
+    document.getElementById(
+        "clapprPlayer"
+    ).innerHTML = "";
+
+
+    const source =
+        channel.url;
+
+
+    /*
+     * HTTPS / HTTP
+     */
+
+    if(
+        location.protocol === "https:" &&
+        source.indexOf("http://") === 0
+    ){
+
+        status(
+            "⚠ Este stream usa HTTP. O navegador pode bloquear conteúdo HTTP dentro do Blogger HTTPS.",
+            "error"
+        );
+
+    }
+
+
+    try{
+
+        player =
+            new Clappr.Player({
+
+                source:source,
+
+                parentId:
+                    "#clapprPlayer",
+
+                width:"100%",
+
+                height:"100%",
+
+                autoPlay:true,
+
+                mute:false,
+
+                playback:{
+
+                    playInline:true,
+
+                    hlsjsConfig:{
+
+                        enableWorker:true,
+
+                        lowLatencyMode:false,
+
+                        backBufferLength:30
+
+                    }
+
+                },
+
+                mediacontrol:{
+
+                    seekbar:"#e50914",
+
+                    buttons:"#ffffff"
+
+                }
+
+            });
+
+
+        player.on(
+            Clappr.Events.PLAYER_READY,
+            function(){
+
+                status(
+                    "✓ Player carregado. Tentando reproduzir...",
+                    "ok"
+                );
+
+            }
+        );
+
+
+        player.on(
+            Clappr.Events.PLAY,
+            function(){
+
+                status(
+                    "✓ Canal reproduzindo",
+                    "ok"
+                );
+
+            }
+        );
+
+
+        player.on(
+            Clappr.Events.ERROR,
+            function(error){
+
+                console.error(
+                    "Clappr:",
+                    error
+                );
+
+
+                status(
+                    "❌ O stream não pôde ser reproduzido. Pode estar offline, usar HTTP ou bloquear reprodução por CORS.",
+                    "error"
+                );
+
+            }
+        );
+
+
+    }catch(error){
+
+        console.error(error);
+
+
+        status(
+            "❌ Erro ao iniciar o player: " +
+            error.message,
+            "error"
+        );
+
+    }
+
+}
+
+
+/* =====================================================
+   PESQUISA
+   ===================================================== */
+
+search.addEventListener(
+    "input",
+    render
+);
+
+
+/* =====================================================
+   BOTÕES PRINCIPAIS
+   ===================================================== */
+
+document
+.querySelector(
+    '[data-cat="TODOS"]'
+)
+.onclick =
+function(){
+
+    category =
+        "TODOS";
+
+    updateButtons();
+
+    render();
+
+};
+
+
+document
+.querySelector(
+    '[data-cat="FAVORITOS"]'
+)
+.onclick =
+function(){
+
+    category =
+        "FAVORITOS";
+
+    updateButtons();
+
+    render();
+
+};
+
+
+/* =====================================================
+   CARREGAR PLAYLIST
+   ===================================================== */
+
+async function load(){
+
+    try{
+
+        status(
+            "Baixando playlist...",
+            ""
+        );
+
+
+        const response =
+            await fetch(
+                PLAYLIST_URL,
+                {
+                    cache:"no-store"
+                }
+            );
+
+
+        if(!response.ok){
+
+            throw new Error(
+                "HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const text =
+            await response.text();
+
+
+        channels =
+            parseM3U(text);
+
+
+        if(!channels.length){
+
+            throw new Error(
+                "A playlist não contém canais reconhecíveis."
+            );
+
+        }
+
+
+        renderCategories();
+
+        render();
+
+
+        status(
+            "✓ " +
+            channels.length +
+            " canais carregados.",
+            "ok"
+        );
+
+
+    }catch(error){
+
+        console.error(error);
+
+
+        count.textContent =
+            "Erro ao carregar";
+
+
+        grid.innerHTML =
+            '<div class="iptv-status iptv-error">' +
+            '<strong>Não foi possível carregar a playlist.</strong>' +
+            '<br><br>' +
+            error.message +
+            '</div>';
+
+
+        status(
+            "❌ Falha ao carregar a playlist.",
+            "error"
+        );
+
+    }
+
+}
+
+
+load();
+
+})();
+</script>
+```
