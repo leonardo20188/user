@@ -1,4 +1,295 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/7e614U5eGeguS6zZFBVuuQVinQi.jpg",[24h] Aeroporto Area Restrita
+http://sventank.com:80/live/123123123/123123123/1281920.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",[24h] Big Bang A Teoria
+http://sventank.com:80/live/123123123/123123123/1281919.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",[24h] Brooklyn Nine-Nine
+http://sventank.com:80/live/123123123/123123123/1281917.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",[24h] Clarêncio O Otimista
+http://sventank.com:80/live/123123123/123123123/1281916.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",[24h] CSI Miami
+http://sventank.com:80/live/123123123/123123123/1281915.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/rBb5TDGMhmBZvDVBlEjIBMCZOPb.jpg",[24h] Drake & Josh
+http://sventank.com:80/live/123123123/123123123/1281914.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/7guAhJQYqzUluJUoU3LmIqKB8qu.jpg",[24h] Os Trapalhões
+http://sventank.com:80/live/123123123/123123123/1281909.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg",[24h] Pesadelo Na Cozinha
+http://sventank.com:80/live/123123123/123123123/1281908.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/6gcHdboppvplmBWxvROc96NJnmm.jpg",[24h] Round 6
+http://sventank.com:80/live/123123123/123123123/1269087.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg",[24h] Grey's Anatomy S01 a S04
+http://sventank.com:80/live/123123123/123123123/1268939.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg",[24h] Grey's Anatomy S05 a S10
+http://sventank.com:80/live/123123123/123123123/1268940.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg",[24h] Grey's Anatomy S11 a S15
+http://sventank.com:80/live/123123123/123123123/1268941.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg",[24h] Grey's Anatomy S16 a S21
+http://sventank.com:80/live/123123123/123123123/1268942.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5A3XUbCr7hcCylesLVklErVpR8m.jpg",[24h] 90 Dias Para Ficar Milionário
+http://sventank.com:80/live/123123123/123123123/1243509.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDbN6rxAx85IiDAOieJmIMtQw8V.jpg",[24h] 90 Dias Para Casar: A Última Chance
+http://sventank.com:80/live/123123123/123123123/1243508.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg",[24h] Chaves S01-S02
+http://sventank.com:80/live/123123123/123123123/1243526.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg",[24h] Chaves S03-S04
+http://sventank.com:80/live/123123123/123123123/1243527.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRT6Tt9KrpJbtkW7tdUXqshRuXj.jpg",[24h] Chaves S05-S07
+http://sventank.com:80/live/123123123/123123123/1243528.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg",[24h] Chapolin Colorado S01-S02
+http://sventank.com:80/live/123123123/123123123/1243523.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg",[24h] Chapolin Colorado S03-S04
+http://sventank.com:80/live/123123123/123123123/1243524.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg",[24h] Chapolin Colorado S05-S07
+http://sventank.com:80/live/123123123/123123123/1243525.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wBKsH43J0ktwc8qWoHtp339NPE.jpg",[24h] Três é Demais S01-S04
+http://sventank.com:80/live/123123123/123123123/1242365.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wBKsH43J0ktwc8qWoHtp339NPE.jpg",[24h] Três é Demais S05-S08
+http://sventank.com:80/live/123123123/123123123/1242366.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",[24h] Dois Homens e Meio S01-S04
+http://sventank.com:80/live/123123123/123123123/1249297.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",[24h] Dois Homens e Meio S05-S08
+http://sventank.com:80/live/123123123/123123123/1249298.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",[24h] Dois Homens e Meio S09-S12
+http://sventank.com:80/live/123123123/123123123/1249299.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",[24h] Friends S01-S02
+http://sventank.com:80/live/123123123/123123123/1249220.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",[24h] Friends S03-S04
+http://sventank.com:80/live/123123123/123123123/1249221.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",[24h] Friends S05-S06
+http://sventank.com:80/live/123123123/123123123/1249222.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",[24h] Friends S07-S08
+http://sventank.com:80/live/123123123/123123123/1249223.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",[24h] Friends S09-S10
+http://sventank.com:80/live/123123123/123123123/1249224.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onTkkSKPO0O8VOyB9iscBiia2c9.jpg",[24h] Um Maluco no Pedaço
+http://sventank.com:80/live/123123123/123123123/1249300.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",[24h] The Big Bang Theory S01-S06
+http://sventank.com:80/live/123123123/123123123/1249285.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",[24h] The Big Bang Theory S07-S12
+http://sventank.com:80/live/123123123/123123123/1249286.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iLfx6PBwGoVmvtZZEwrF3QHS7qR.jpg",[24h] Os Trapalhões S01-S03
+http://sventank.com:80/live/123123123/123123123/1249262.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iLfx6PBwGoVmvtZZEwrF3QHS7qR.jpg",[24h] Os Trapalhões S04-S06
+http://sventank.com:80/live/123123123/123123123/1249263.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9O8DFjqGvfQtreIE3HlVKTHVQ7q.jpg",[24h] Os Roni
+http://sventank.com:80/live/123123123/123123123/1249261.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ULaMBSsEB3jArOe19jxgJvpW8N.jpg",[24h] Os Normais
+http://sventank.com:80/live/123123123/123123123/1249259.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",[24h] Mr. Bean
+http://sventank.com:80/live/123123123/123123123/1249248.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg",[24h] Todo Mundo Odeia o Chris S01-S02
+http://sventank.com:80/live/123123123/123123123/1249216.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg",[24h] Todo Mundo Odeia o Chris S03-S04
+http://sventank.com:80/live/123123123/123123123/1249217.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg",[24h] Drake e Josh S01-S02
+http://sventank.com:80/live/123123123/123123123/1243540.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg",[24h] Drake e Josh S03-S04
+http://sventank.com:80/live/123123123/123123123/1243541.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",[24h] Kenan e Kel S01-S02
+http://sventank.com:80/live/123123123/123123123/1249238.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",[24h] Kenan e Kel S03-S04
+http://sventank.com:80/live/123123123/123123123/1249239.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg",[24h] A Grande Família S01-S05
+http://sventank.com:80/live/123123123/123123123/1243512.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg",[24h] A Grande Família S06-S10
+http://sventank.com:80/live/123123123/123123123/1243513.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg",[24h] A Grande Família S11-S14
+http://sventank.com:80/live/123123123/123123123/1243514.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7STF15AEhpBsIErShwlonj8klQa.jpg",[24h] Tapas & Beijos
+http://sventank.com:80/live/123123123/123123123/1249284.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m85K3WAJzSYvDf7U1dPObkLTMm3.jpg",[24h] Tô de Graça
+http://sventank.com:80/live/123123123/123123123/1249294.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://i.imgur.com/h9p1yV1.jpeg",[24h] Toninho Tornado
+http://sventank.com:80/live/123123123/123123123/1249296.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg",[24h] Sai de Baixo S01-S02
+http://sventank.com:80/live/123123123/123123123/1249275.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg",[24h] Sai de Baixo S03-S04
+http://sventank.com:80/live/123123123/123123123/1249276.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg",[24h] Sai de Baixo S05-S08
+http://sventank.com:80/live/123123123/123123123/1249277.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tot0vxSAdIajv1OQ0e5KYAYaqQ1.jpg",[24h] Lady Night
+http://sventank.com:80/live/123123123/123123123/1249242.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h7uzLfBI8CVy1W0VxVqC24VaSY0.jpg",[24h] A Diarista
+http://sventank.com:80/live/123123123/123123123/1243510.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/14IDLdeBgr3so6DumKriQTV6zCG.jpg",[24h] Pegadinhas do João Kleber
+http://sventank.com:80/live/123123123/123123123/1249267.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg",[24h] iCarly S01-S02
+http://sventank.com:80/live/123123123/123123123/1249230.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg",[24h] iCarly S03-S05
+http://sventank.com:80/live/123123123/123123123/1249231.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpEuk9sblTWlpZshKUvFm2t6HhP.jpg",[24h] 220 Volts
+http://sventank.com:80/live/123123123/123123123/1243506.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ln96pyBuN5IDVGksru1idr7aIXr.jpg",[24h] Black Kamen Rider RX
+http://sventank.com:80/live/123123123/123123123/1243518.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dOqmJNnBEvuWNpYgxndjRA3nA6P.jpg",[24h] Cybercops
+http://sventank.com:80/live/123123123/123123123/1243535.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aoEJ1pWjFlLRPuwhww9uRJnc9QD.jpg",[24h] Changeman
+http://sventank.com:80/live/123123123/123123123/1243522.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg",[24h] Poderoso Lion Man
+http://sventank.com:80/live/123123123/123123123/1249269.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tspQe0FuiaUj0U1R1norNbiYTe4.jpg",[24h] Jessie
+http://sventank.com:80/live/123123123/123123123/1249237.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBYDJlWtVM7JVDhN8pRDuITNDKC.jpg",[24h] Sam e Cat
+http://sventank.com:80/live/123123123/123123123/1249278.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6RxC6dBYFPyP2GUQPCT5YTT5h8j.jpg",[24h] Pé na Cova
+http://sventank.com:80/live/123123123/123123123/1249265.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xH37StqHBet4ehmqUTWXULKi3ZK.jpg",[24h] Star Trek
+http://sventank.com:80/live/123123123/123123123/1249283.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNMWmD3O6UthGWhqZeNgqk5tT19.jpg",[24h] Xilindró
+http://sventank.com:80/live/123123123/123123123/1249303.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://i.imgur.com/X0wXctl.jpeg",[24h] Edu Primitivo
+http://sventank.com:80/live/123123123/123123123/1243542.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2ezB41chGDjXcKo24lseuXYtKP.jpg",[24h] Game of Thrones
+http://sventank.com:80/live/123123123/123123123/1265347.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg",[24h] The Walking Dead S01-S05
+http://sventank.com:80/live/123123123/123123123/1249291.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bioOPexzaYnAwa1joJn5QlAvr0H.jpg",[24h] The Walking Dead S06-S11
+http://sventank.com:80/live/123123123/123123123/1249292.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",[24h] Breaking Bad
+http://sventank.com:80/live/123123123/123123123/1243520.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rK3Vwe0Wm0VXxf4IJCdlHeEREYx.jpg",[24h] Prison Break
+http://sventank.com:80/live/123123123/123123123/1249270.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg",[24h] The Good Doctor: O Bom Doutor S01-S03
+http://sventank.com:80/live/123123123/123123123/1249288.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jtLB7xJKcbekmOYkb5NZditBsgk.jpg",[24h] The Good Doctor: O Bom Doutor S04-S06
+http://sventank.com:80/live/123123123/123123123/1249289.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeZ98Lh9kCQIDQSLoODljapaKUg.jpg",[24h] Hospital New Amsterdam
+http://sventank.com:80/live/123123123/123123123/1249252.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",[24h] Dr. House S01-S04
+http://sventank.com:80/live/123123123/123123123/1243538.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",[24h] Dr. House S05-S08
+http://sventank.com:80/live/123123123/123123123/1243539.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg",[24h] Dom
+http://sventank.com:80/live/123123123/123123123/1243537.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",[24h] This Is Us
+http://sventank.com:80/live/123123123/123123123/1249293.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg",[24h] La Casa de Papel
+http://sventank.com:80/live/123123123/123123123/1249241.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3k9YHHlENlcIT8g2BqeXsaDI2Hh.jpg",[24h] Chicago P.D S01-S05
+http://sventank.com:80/live/123123123/123123123/1243532.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3k9YHHlENlcIT8g2BqeXsaDI2Hh.jpg",[24h] Chicago P.D S06-S10
+http://sventank.com:80/live/123123123/123123123/1243533.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg",[24h] Chicago Med
+http://sventank.com:80/live/123123123/123123123/1243531.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",[24h] Chicago Fire S01-S05
+http://sventank.com:80/live/123123123/123123123/1243529.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",[24h] Chicago Fire S06-S11
+http://sventank.com:80/live/123123123/123123123/1243530.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",[24h] 9-1-1
+http://sventank.com:80/live/123123123/123123123/1243507.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg",[24h] 1 Contra Todos
+http://sventank.com:80/live/123123123/123123123/1243505.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htQ7JUhr477DjWapcDVQc9gRUQ.jpg",[24h] Arcanjo Renegado
+http://sventank.com:80/live/123123123/123123123/1243516.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tu8aUmnujUrf9zXHlFQnqWy8Yy2.jpg",[24h] Os Outros
+http://sventank.com:80/live/123123123/123123123/1249260.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgdOEAAtH9hyJ5mZye8uKMaFV0X.jpg",[24h] Impuros
+http://sventank.com:80/live/123123123/123123123/1249233.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg",[24h] Hawaii Five-0 S01-S05
+http://sventank.com:80/live/123123123/123123123/1249228.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg",[24h] Hawaii Five-0 S06-S10
+http://sventank.com:80/live/123123123/123123123/1249229.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",[24h] See
+http://sventank.com:80/live/123123123/123123123/1249279.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hO4eCLs4epzAouwrL447psVs3hU.jpg",[24h] Largados e Pelados S01-S08
+http://sventank.com:80/live/123123123/123123123/1249243.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hO4eCLs4epzAouwrL447psVs3hU.jpg",[24h] Largados e Pelados S09-S17
+http://sventank.com:80/live/123123123/123123123/1265346.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVz8OISt8MoZ4ioDjcYi2XIKOdn.jpg",[24h] Jovem Sheldon
+http://sventank.com:80/live/123123123/123123123/1249304.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg",[24h] Wandinha
+http://sventank.com:80/live/123123123/123123123/1249302.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg",[24h] Todas as Flores
+http://sventank.com:80/live/123123123/123123123/1249295.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kMNNvkzoLIk8NjIegwq7mNI721O.jpg",[24h] O Cravo e a Rosa
+http://sventank.com:80/live/123123123/123123123/1249255.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lurHhkwgz4xrFvplmHrMqqjwkV.jpg",[24h] O Clone
+http://sventank.com:80/live/123123123/123123123/1249254.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zxjJx1m2Mz4zf1HtFrtyWzZfw6m.jpg",[24h] Mulheres de Areia
+http://sventank.com:80/live/123123123/123123123/1249250.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f7xttU79eOEm8YOu4DCONvbPtNX.jpg",[24h] Mulheres Apaixonadas
+http://sventank.com:80/live/123123123/123123123/1249249.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4PECja04mc0m33ZevE6GhhGkQIm.jpg",[24h] Pecado Capital
+http://sventank.com:80/live/123123123/123123123/1249266.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zdHr8X3TYMCibhltUQxKE9kch5A.jpg",[24h] Desejos de Mulher
+http://sventank.com:80/live/123123123/123123123/1243536.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vPh5Fo4ptnHrI8Ku0QplHrSoeDe.jpg",[24h] Chocolate com Pimenta
+http://sventank.com:80/live/123123123/123123123/1243534.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19aeBWMyI8nZczAAbcF1oMUZLMk.jpg",[24h] A Favorita
+http://sventank.com:80/live/123123123/123123123/1243511.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",[24h] Alma Gêmea
+http://sventank.com:80/live/123123123/123123123/1243515.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3hPMvgOe9vOpEEHkuta63AtYnJ.jpg",[24h] The Middle: Uma Família Perdida no Meio do Nada
+http://sventank.com:80/live/123123123/123123123/1249290.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w0SInlIR3VS7MNVBVdh8J17S3od.jpg",[24h] The Circle Brasil
+http://sventank.com:80/live/123123123/123123123/1249287.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bvUvdwfeDBlyb9sg85FulzGZs0P.jpg",[24h] Sorriso Real
+http://sventank.com:80/live/123123123/123123123/1249282.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kfb7yjs1ZBaHbbXZjkHpDyzrFqa.jpg",[24h] Irmãos à Obra S07-S14
+http://sventank.com:80/live/123123123/123123123/1249272.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kfb7yjs1ZBaHbbXZjkHpDyzrFqa.jpg",[24h] Irmãos à Obra S01-S06
+http://sventank.com:80/live/123123123/123123123/1249271.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etaBw0YnIFPwPXlW0CbODUGDJld.jpg",[24h] Pesadelo na Cozinha
+http://sventank.com:80/live/123123123/123123123/1249268.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJMZsRLmJXMdInEXk7ol72E639n.jpg",[24h] O Pior do Mal
+http://sventank.com:80/live/123123123/123123123/1249258.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipbiev4I2ZSO1buIn7fn5rp6QAc.jpg",[24h] O Dono do Lar
+http://sventank.com:80/live/123123123/123123123/1249257.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yoWTueab24xvvzMMr0vBCtpmIuC.jpg",[24h] Nossa Juventude Florescente
+http://sventank.com:80/live/123123123/123123123/1249253.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4u2IJwdNx52HesX0KqwL4mv9YNu.jpg",[24h] My Dearest
+http://sventank.com:80/live/123123123/123123123/1249251.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8uVAyYAg5g6y1jhchT94hjI8EBz.jpg",[24h] Money Flower
+http://sventank.com:80/live/123123123/123123123/1249246.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg",[24h] My Name
+http://sventank.com:80/live/123123123/123123123/1265348.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIi3T7X0kmiV9vGDme146P2d979.jpg",[24h] Mom
+http://sventank.com:80/live/123123123/123123123/1249245.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nj2HjjwjnrkVH3xgehUF9VRsVv.jpg",[24h] Meu Final Feliz
+http://sventank.com:80/live/123123123/123123123/1249244.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j3TXDps28ZVsWOOQ7Ykb3jRLnz.jpg",[24h] Kiseki: Querido Para Mim
+http://sventank.com:80/live/123123123/123123123/1249240.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgS98RphToJLcUGGvpPR2W02qzD.jpg",[24h] Você é Linda
+http://sventank.com:80/live/123123123/123123123/1249301.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jH2SIzJY0m0PnnfYgTqRLeMNyDb.jpg",[24h] Irmãos à Obra: Lar Sempre Lar
+http://sventank.com:80/live/123123123/123123123/1249236.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fzJHEbfgRM5uJaon5AVxwJxFMSF.jpg",[24h] Irmã ao Quadrado
+http://sventank.com:80/live/123123123/123123123/1249235.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWCKA2ty4Z7uMUWacair7kPlC7P.jpg",[24h] Game dos Clones
+http://sventank.com:80/live/123123123/123123123/1249226.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x41XiBUBqFJ1lHmxz0CxxBdzasA.jpg",[24h] Celebrity
+http://sventank.com:80/live/123123123/123123123/1243521.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",[24h] Jornada nas Estrelas: A Nova Missão S04-S07
+http://sventank.com:80/live/123123123/123123123/1271879.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",[24h] Jornada nas Estrelas: A Nova Missão S01-S03
+http://sventank.com:80/live/123123123/123123123/1271878.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",[24h] Star Trek: Strange New Worlds S01-S03
+http://sventank.com:80/live/123123123/123123123/1271883.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/tMM1Kwz6h1ebYSQL5V1hqC1QGCA.jpg",[24h] Star Trek: Discovery S01-S05
+http://sventank.com:80/live/123123123/123123123/1271880.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/4I3Z86ntZXkjA3bCPv3DrXVfymS.jpg",[24h] Jornada nas Estrelas: Picard S01-S03
+http://sventank.com:80/live/123123123/123123123/1271882.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/xH37StqHBet4ehmqUTWXULKi3ZK.jpg",[24h] Jornada nas Estrelas S01-S03
+http://sventank.com:80/live/123123123/123123123/1271881.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://imgur.com/120v8A0.jpg",[24h] Fatos Desconhecidos
+http://sventank.com:80/live/123123123/123123123/1272986.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/7QChRelKcBg6ofta6iQ769qaz3A.jpg",[24h] 60 Dias Infiltrados na Prisão
+http://sventank.com:80/live/123123123/123123123/1272985.m3u8
+#EXTINF:-1 group-title="MARATONA 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",[24h] Malhação
+http://sventank.com:80/live/123123123/123123123/1272984.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/c1OqEWauZnYhzpWYSN5DTV0L9Uj.jpg",[24h] Febre de Ouro
+http://sventank.com:80/live/123123123/123123123/1272983.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/y2x0WkCYiGJzPBD6RHni7ethYQD.jpg",[24h] Quilos Mortais: Como Eles Estão Agora?
+http://sventank.com:80/live/123123123/123123123/1272982.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://www.themoviedb.org/t/p/w1280/fNIRxOp1bYs1u8LHHmVNXRLvFWK.jpg",[24h] Quilos Mortais
+http://sventank.com:80/live/123123123/123123123/1272981.m3u8
+#EXTINF:-1 group-title="MARATONA 24H",[24h] The Chosen
+http://sventank.com:80/live/123123123/123123123/1272980.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://imgur.com/r1O62VV.jpg",[24h] Pânico na Band
+http://sventank.com:80/live/123123123/123123123/1272979.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://imgur.com/287DJaz.jpg",[24h] A Praça é Nossa
+http://sventank.com:80/live/123123123/123123123/1272978.m3u8
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://acstatic.co/logos/canais/a%26e.png",A&E 4K
 http://rcm8yskdp.club:80/jeferson4433/3m7bGA/90647.m3u8
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://acstatic.co/logos/canais/a%26e.png",A&E FHD
