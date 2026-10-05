@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/7e614U5eGeguS6zZFBVuuQVinQi.jpg",[24h] Aeroporto Area Restrita
-http://sventank.com:80/live/123123123/123123123/1281920.m3u8
+
+#EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/7e614U5eGeguS6zZFBVuuQVinQi.jpg",teste
+http://rcm8yskdp.club:80/jeferson4433/3m7bGA/72133.ts
 #EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",[24h] Big Bang A Teoria
 http://sventank.com:80/live/123123123/123123123/1281919.m3u8
 #EXTINF:-1 group-title="ESPECIAIS 24H" tvg-logo="https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",[24h] Brooklyn Nine-Nine
